@@ -1,7 +1,0 @@
-<map id="delay.c" name="delay.c">
-<area shape="rect" id="node7" href="$led_8h.html" title="LED controller header." alt="" coords="285,83,336,112"/>
-<area shape="rect" id="node9" href="$debug_8h.html" title="debug framework enhancer header" alt="" coords="360,83,427,112"/>
-<area shape="rect" id="node19" href="$delay_8h.html" title="Timer functions for causing delay (header)" alt="" coords="451,83,515,112"/>
-<area shape="rect" id="node13" href="$mouse_8h.html" title="header file for mouse module" alt="" coords="416,160,488,189"/>
-<area shape="rect" id="node17" href="$coordinate_8h.html" title="Coordinate record module header." alt="" coords="456,237,549,267"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="motor_rot_abs" name="motor_rot_abs">
-<area shape="rect" id="node3" href="$advanced__movement_8h.html#a1f84062caee0d0c04e26c0a5ed5aa6f5" title="move to a location (Non&#45;PID version)" alt="" coords="189,5,272,35"/>
-<area shape="rect" id="node5" href="$advanced__movement_8h.html#a32ecfecc38758df0d69b18aafa5cc470" title="Implementing function for straight line movement (based on mouse data)" alt="" coords="349,84,456,113"/>
-<area shape="rect" id="node7" href="$advanced__movement_8h.html#a5a94e3d9dce99e8d81d51515fa9c3ed6" title="Rotate and move (PID version)" alt="" coords="160,109,301,139"/>
-<area shape="rect" id="node10" href="$advanced__movement_8h.html#a4bbd42daaf19c44d051e1afde0a09576" title="Rotate and move (Non&#45;PID version)" alt="" coords="172,163,289,192"/>
-</map>

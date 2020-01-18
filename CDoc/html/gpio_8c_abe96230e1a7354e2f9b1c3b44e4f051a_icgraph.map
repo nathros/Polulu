@@ -1,6 +1,0 @@
-<map id="gpio_collision_read" name="gpio_collision_read">
-<area shape="rect" id="node3" href="$gpio_8h.html#a919c2872e54cf51f7f4dd98ae0c6fb50" title="Wait for collision." alt="" coords="187,5,317,35"/>
-<area shape="rect" id="node5" href="$wall__follow_8h.html#aff5e3746895be3e5bd9ba27cbfc35208" title="Set the robot to follow a wall." alt="" coords="195,59,309,88"/>
-<area shape="rect" id="node7" href="$main_8h.html#a8a1706f7defba67f2148b57bcc2cbfe9" title="Tasks in bullet point 1 and 2." alt="" coords="365,59,509,88"/>
-<area shape="rect" id="node9" href="$main_8c.html#acdef7a1fd863a6d3770c1268cb06add3" title="main" alt="" coords="557,59,608,88"/>
-</map>

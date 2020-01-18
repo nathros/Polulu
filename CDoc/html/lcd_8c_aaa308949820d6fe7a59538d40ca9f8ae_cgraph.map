@@ -1,4 +1,0 @@
-<map id="lcd_next_line" name="lcd_next_line">
-<area shape="rect" id="node3" href="$lcd_8c.html#af1d637a9d4d2941eca8b32c10d14fc83" title="move LCD cursor" alt="" coords="153,5,223,35"/>
-<area shape="rect" id="node5" href="$uart_8c.html#abfe57cac5619ef3c3aa92250740e3cc5" title="Blocking send function." alt="" coords="273,5,375,35"/>
-</map>

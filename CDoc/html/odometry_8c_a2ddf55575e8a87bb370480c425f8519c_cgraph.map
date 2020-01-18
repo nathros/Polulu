@@ -1,8 +1,0 @@
-<map id="TIMER3_IRQHandler" name="TIMER3_IRQHandler">
-<area shape="rect" id="node3" href="$advanced__movement_8c.html#a3e41f7d4e342aa8ea83f905cb3cbd7d0" title="update the local rpm record" alt="" coords="220,5,337,35"/>
-<area shape="rect" id="node5" href="$odometry_8c.html#ae737fcccddf49ceed7a861be467f3a8b" title="encoder_rpm_calculate" alt="" coords="201,59,356,88"/>
-<area shape="rect" id="node9" href="$odometry_8c.html#a8a61ae84b531eea5a092e54a71e14845" title="clear encoder rpm click count" alt="" coords="213,112,344,141"/>
-<area shape="rect" id="node12" href="$led_8c.html#a332be2958bf709819b7853ee7fe9372e" title="Turn off certain LED." alt="" coords="248,165,309,195"/>
-<area shape="rect" id="node14" href="$led_8c.html#a6a4bc26a21ab305b8080a6d37726955f" title="Turn on certain LED." alt="" coords="249,219,308,248"/>
-<area shape="rect" id="node7" href="$debug_8c.html#a5cac9a3a2f2d7c55aa4ede6ba71bf8be" title="printf function for the debugging console" alt="" coords="407,85,484,115"/>
-</map>

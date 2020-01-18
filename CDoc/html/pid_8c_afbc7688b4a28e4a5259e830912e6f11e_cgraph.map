@@ -1,8 +1,0 @@
-<map id="pid_line_detect" name="pid_line_detect">
-<area shape="rect" id="node3" href="$debug_8c.html#a5cac9a3a2f2d7c55aa4ede6ba71bf8be" title="printf function for the debugging console" alt="" coords="363,5,440,35"/>
-<area shape="rect" id="node5" href="$pid_8c.html#a9c5bbf6760bd9b49872ed2d34f2f577e" title="pid_read_sensors" alt="" coords="164,59,287,88"/>
-<area shape="rect" id="node7" href="$line__sensors_8c.html#a556cc3371b1664e3b97d9cfdba371fdf" title="Reads the calibrated values from line sensors." alt="" coords="364,59,439,88"/>
-<area shape="rect" id="node13" href="$pid_8c.html#a126c57deecb33d7e894ae5986ec7297c" title="pid_match_pattern" alt="" coords="337,112,465,141"/>
-<area shape="rect" id="node9" href="$uart_8c.html#aa2e54cf45b7766d1e29a6aef0150427a" title="Blocking receive function." alt="" coords="521,32,620,61"/>
-<area shape="rect" id="node11" href="$uart_8c.html#a0574ad2d6ebda8dcd83c372baaa6b29e" title="Send a single byte down UART." alt="" coords="516,85,625,115"/>
-</map>

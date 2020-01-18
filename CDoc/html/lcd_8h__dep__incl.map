@@ -1,8 +1,0 @@
-<map id="lcd.h" name="lcd.h">
-<area shape="rect" id="node3" href="$coordinate_8c.html" title="Coordinate record module." alt="" coords="5,83,99,112"/>
-<area shape="rect" id="node5" href="$debug_8c.html" title="debug framework enhancer" alt="" coords="123,83,189,112"/>
-<area shape="rect" id="node7" href="$lcd_8c.html" title="LCD controller." alt="" coords="213,83,264,112"/>
-<area shape="rect" id="node9" href="$main_8h.html" title="main.h" alt="" coords="288,83,349,112"/>
-<area shape="rect" id="node13" href="$mouse_8c.html" title="mouse module source code" alt="" coords="373,83,445,112"/>
-<area shape="rect" id="node11" href="$main_8c.html" title="basic step by step demo code" alt="" coords="288,160,349,189"/>
-</map>

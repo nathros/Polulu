@@ -1,5 +1,0 @@
-<map id="motor_set" name="motor_set">
-<area shape="rect" id="node3" href="$motor_8c.html#a6b8738722a7fad99c5e6b9be4e53d1b7" title="Speed limiter." alt="" coords="149,5,256,35"/>
-<area shape="rect" id="node5" href="$motor_8c.html#a0bc2624928b5e9869ce6946fb2042fd8" title="private function: send a command to motor" alt="" coords="133,59,272,88"/>
-<area shape="rect" id="node7" href="$uart_8c.html#abfe57cac5619ef3c3aa92250740e3cc5" title="Blocking send function." alt="" coords="321,59,423,88"/>
-</map>

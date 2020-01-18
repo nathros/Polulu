@@ -1,5 +1,0 @@
-<map id="gpio_collision_wait" name="gpio_collision_wait">
-<area shape="rect" id="node3" href="$gpio_8c.html#abe96230e1a7354e2f9b1c3b44e4f051a" title="Read collision sensor data." alt="" coords="185,5,316,35"/>
-<area shape="rect" id="node5" href="$led_8c.html#a332be2958bf709819b7853ee7fe9372e" title="Turn off certain LED." alt="" coords="220,59,281,88"/>
-<area shape="rect" id="node7" href="$led_8c.html#a6a4bc26a21ab305b8080a6d37726955f" title="Turn on certain LED." alt="" coords="221,112,280,141"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="common.h" name="common.h">
-<area shape="rect" id="node3" href="$advanced__movement_8c.html" title="Pololu advanced movement module." alt="" coords="5,83,163,112"/>
-<area shape="rect" id="node5" href="$common_8c.html" title="Common mathematics routines." alt="" coords="187,83,269,112"/>
-<area shape="rect" id="node7" href="$coordinate_8c.html" title="Coordinate record module." alt="" coords="293,83,387,112"/>
-<area shape="rect" id="node9" href="$debug_8c.html" title="debug framework enhancer" alt="" coords="411,83,477,112"/>
-<area shape="rect" id="node11" href="$mouse_8c.html" title="mouse module source code" alt="" coords="501,83,573,112"/>
-<area shape="rect" id="node13" href="$odometry_8c.html" title="Wheel encoder based odometry module (source)" alt="" coords="597,83,683,112"/>
-</map>

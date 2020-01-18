@@ -1,7 +1,0 @@
-<map id="line_sensors.h" name="line_sensors.h">
-<area shape="rect" id="node3" href="$line__sensors_8c.html" title="Pololu line sensor module." alt="" coords="5,83,112,112"/>
-<area shape="rect" id="node5" href="$main_8h.html" title="main.h" alt="" coords="136,83,197,112"/>
-<area shape="rect" id="node9" href="$main__test__line_8c.html" title="main_test_line.c" alt="" coords="221,83,339,112"/>
-<area shape="rect" id="node11" href="$pid_8c.html" title="Line following code." alt="" coords="363,83,413,112"/>
-<area shape="rect" id="node7" href="$main_8c.html" title="basic step by step demo code" alt="" coords="136,160,197,189"/>
-</map>

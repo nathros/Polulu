@@ -1,8 +1,0 @@
-<map id="wall_follow.c" name="wall_follow.c">
-<area shape="rect" id="node3" href="$wall__follow_8h.html" title="wall_follow.h" alt="" coords="5,83,101,112"/>
-<area shape="rect" id="node5" href="$ir_8h.html" title="Robot IR receiver handler header." alt="" coords="125,83,165,112"/>
-<area shape="rect" id="node9" href="$motor_8h.html" title="Polulu motor controller header." alt="" coords="189,83,256,112"/>
-<area shape="rect" id="node11" href="$delay_8h.html" title="Timer functions for causing delay (header)" alt="" coords="280,83,344,112"/>
-<area shape="rect" id="node13" href="$gpio_8h.html" title="Collision sensor controller header." alt="" coords="368,83,424,112"/>
-<area shape="rect" id="node7" href="$config_8h.html" title="Centralised Configuration File." alt="" coords="112,160,179,189"/>
-</map>

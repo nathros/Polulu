@@ -1,7 +1,0 @@
-<map id="utilities.c" name="utilities.c">
-<area shape="rect" id="node5" href="$uart_8h.html" title="UART communication handler header." alt="" coords="43,160,96,189"/>
-<area shape="rect" id="node9" href="$debug_8h.html" title="debug framework enhancer header" alt="" coords="144,83,211,112"/>
-<area shape="rect" id="node18" href="$utilities_8h.html" title="Polulu control utilities (header)" alt="" coords="235,83,309,112"/>
-<area shape="rect" id="node13" href="$mouse_8h.html" title="header file for mouse module" alt="" coords="259,160,331,189"/>
-<area shape="rect" id="node16" href="$coordinate_8h.html" title="Coordinate record module header." alt="" coords="248,237,341,267"/>
-</map>

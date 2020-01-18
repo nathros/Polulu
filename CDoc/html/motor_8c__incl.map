@@ -1,9 +1,0 @@
-<map id="motor.c" name="motor.c">
-<area shape="rect" id="node3" href="$config_8h.html" title="Centralised Configuration File." alt="" coords="5,83,72,112"/>
-<area shape="rect" id="node5" href="$debug_8h.html" title="debug framework enhancer header" alt="" coords="171,83,237,112"/>
-<area shape="rect" id="node13" href="$coordinate_8h.html" title="Coordinate record module header." alt="" coords="160,237,253,267"/>
-<area shape="rect" id="node15" href="$uart_8h.html" title="UART communication handler header." alt="" coords="381,160,435,189"/>
-<area shape="rect" id="node18" href="$delay_8h.html" title="Timer functions for causing delay (header)" alt="" coords="312,83,376,112"/>
-<area shape="rect" id="node21" href="$motor_8h.html" title="Polulu motor controller header." alt="" coords="400,83,467,112"/>
-<area shape="rect" id="node9" href="$mouse_8h.html" title="header file for mouse module" alt="" coords="285,160,357,189"/>
-</map>

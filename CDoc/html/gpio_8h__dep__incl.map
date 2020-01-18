@@ -1,8 +1,0 @@
-<map id="gpio.h" name="gpio.h">
-<area shape="rect" id="node3" href="$gpio_8c.html" title="GPIO module." alt="" coords="5,83,61,112"/>
-<area shape="rect" id="node5" href="$main_8h.html" title="main.h" alt="" coords="85,83,147,112"/>
-<area shape="rect" id="node9" href="$main__test__line_8c.html" title="main_test_line.c" alt="" coords="171,83,288,112"/>
-<area shape="rect" id="node11" href="$pid_8c.html" title="Line following code." alt="" coords="312,83,363,112"/>
-<area shape="rect" id="node13" href="$wall__follow_8c.html" title="wall_follow.c" alt="" coords="387,83,483,112"/>
-<area shape="rect" id="node7" href="$main_8c.html" title="basic step by step demo code" alt="" coords="85,160,147,189"/>
-</map>

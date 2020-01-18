@@ -1,8 +1,0 @@
-<map id="gpio_button_read" name="gpio_button_read">
-<area shape="rect" id="node3" href="$gpio_8h.html#a117267f13b9ac9eb9e4c5b3392bc58c7" title="Wait for GPIO button click." alt="" coords="176,59,296,88"/>
-<area shape="rect" id="node11" href="$main__test__line_8c.html#ad538d12f94c26b9ea38b8795f16dc704" title="main_hold" alt="" coords="196,112,276,141"/>
-<area shape="rect" id="node5" href="$main_8h.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="All system Initialisation." alt="" coords="377,5,415,35"/>
-<area shape="rect" id="node9" href="$main_8h.html#a0325add2930ae73782ad62ad4d5f5de7" title="Tasks in bullet point 4." alt="" coords="345,59,447,88"/>
-<area shape="rect" id="node7" href="$main_8c.html#acdef7a1fd863a6d3770c1268cb06add3" title="main" alt="" coords="496,5,547,35"/>
-<area shape="rect" id="node13" href="$main__test__line_8c.html#acdef7a1fd863a6d3770c1268cb06add3" title="main" alt="" coords="371,112,421,141"/>
-</map>
