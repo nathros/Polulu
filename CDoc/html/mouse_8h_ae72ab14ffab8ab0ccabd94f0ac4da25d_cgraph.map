@@ -1,0 +1,5 @@
+<map id="TIMER2_IRQHandler" name="TIMER2_IRQHandler">
+<area shape="rect" id="node3" href="$led_8c.html#a332be2958bf709819b7853ee7fe9372e" title="Turn off certain LED." alt="" coords="213,5,275,35"/>
+<area shape="rect" id="node5" href="$led_8c.html#a6a4bc26a21ab305b8080a6d37726955f" title="Turn on certain LED." alt="" coords="215,59,273,88"/>
+<area shape="rect" id="node7" href="$KeyboardHost_8h.html#a41f3e2ae04a722c021a5258062abc7c1" title="mouse_poll" alt="" coords="200,112,288,141"/>
+</map>

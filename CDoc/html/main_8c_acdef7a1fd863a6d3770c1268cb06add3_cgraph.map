@@ -1,0 +1,20 @@
+<map id="main" name="main">
+<area shape="rect" id="node3" href="$main_8c.html#a8a1706f7defba67f2148b57bcc2cbfe9" title="Tasks in bullet point 1 and 2." alt="" coords="104,85,248,115"/>
+<area shape="rect" id="node41" href="$main_8c.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="All system Initialisation." alt="" coords="157,139,195,168"/>
+<area shape="rect" id="node5" href="$motor_8c.html#a9327d3b425e2e0e49630118f7153eb60" title="Move both motors." alt="" coords="475,5,576,35"/>
+<area shape="rect" id="node16" href="$wall__follow_8c.html#aff5e3746895be3e5bd9ba27cbfc35208" title="Set the robot to follow a wall." alt="" coords="296,137,411,167"/>
+<area shape="rect" id="node7" href="$motor_8c.html#a6b8738722a7fad99c5e6b9be4e53d1b7" title="Speed limiter." alt="" coords="784,5,891,35"/>
+<area shape="rect" id="node9" href="$motor_8c.html#ad61876852438f35d82769b704e6e8e37" title="Set motor speed." alt="" coords="640,59,720,88"/>
+<area shape="rect" id="node12" href="$motor_8c.html#a0bc2624928b5e9869ce6946fb2042fd8" title="private function: send a command to motor" alt="" coords="768,59,907,88"/>
+<area shape="rect" id="node14" href="$uart_8c.html#abfe57cac5619ef3c3aa92250740e3cc5" title="Blocking send function." alt="" coords="956,59,1057,88"/>
+<area shape="rect" id="node18" href="$motor_8c.html#a9354222349ea5fb2675f8bdb4b9241fc" title="Read motor speed." alt="" coords="483,163,568,192"/>
+<area shape="rect" id="node21" href="$wall__follow_8c.html#a9e31392d9c68413a6ca83cc4580dd5e4" title="update_sensors" alt="" coords="468,216,583,245"/>
+<area shape="rect" id="node26" href="$delay_8c.html#ae3bfb8c0842af8292407895c45f944ff" title="Delay function." alt="" coords="483,269,568,299"/>
+<area shape="rect" id="node36" href="$gpio_8c.html#abe96230e1a7354e2f9b1c3b44e4f051a" title="Read collision sensor data." alt="" coords="460,323,591,352"/>
+<area shape="rect" id="node38" href="$motor_8c.html#a2028f6e7acaeca3139534961fb804889" title="Stop both motors." alt="" coords="479,59,572,88"/>
+<area shape="rect" id="node23" href="$ir_8c.html#af70a96597f5329efe1cd3fe3bcbf82f0" title="Read data off IR sensors." alt="" coords="649,163,711,192"/>
+<area shape="rect" id="node28" href="$debug_8c.html#a5cac9a3a2f2d7c55aa4ede6ba71bf8be" title="printf function for the debugging console" alt="" coords="641,376,719,405"/>
+<area shape="rect" id="node30" href="$delay_8c.html#a2bebcf384b8e8defe62a69d800dee00f" title="delay_init" alt="" coords="641,216,719,245"/>
+<area shape="rect" id="node32" href="$led_8c.html#a332be2958bf709819b7853ee7fe9372e" title="Turn off certain LED." alt="" coords="649,269,711,299"/>
+<area shape="rect" id="node34" href="$led_8c.html#a6a4bc26a21ab305b8080a6d37726955f" title="Turn on certain LED." alt="" coords="651,323,709,352"/>
+</map>

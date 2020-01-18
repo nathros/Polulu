@@ -1,0 +1,6 @@
+<map id="ir_read" name="ir_read">
+<area shape="rect" id="node3" href="$wall__follow_8c.html#a9e31392d9c68413a6ca83cc4580dd5e4" title="update_sensors" alt="" coords="115,5,229,35"/>
+<area shape="rect" id="node5" href="$wall__follow_8h.html#aff5e3746895be3e5bd9ba27cbfc35208" title="Set the robot to follow a wall." alt="" coords="277,5,392,35"/>
+<area shape="rect" id="node7" href="$main_8h.html#a8a1706f7defba67f2148b57bcc2cbfe9" title="Tasks in bullet point 1 and 2." alt="" coords="440,5,584,35"/>
+<area shape="rect" id="node9" href="$main_8c.html#acdef7a1fd863a6d3770c1268cb06add3" title="main" alt="" coords="632,5,683,35"/>
+</map>

@@ -1,0 +1,29 @@
+﻿//     /* The section below are old code */
+//
+//     /* radius for the arc */
+//     float r;
+//     if (d_t != 0) {
+//         r = d_l /  d_t;
+//     } else {
+//         r = d_l;
+//     }
+//     Coordinate d_p;
+//     d_p.t = d_t;
+//     d_p.x = r * (1-cos(d_t));
+//     d_p.y = r * sin(d_t);
+//     coordinate_update(d_p);
+
+//     /* The following line verifies my hypothesis */
+//     dbg_printf("d_l: %f\tr: %f\r\n", d_l, sqrt(d_p.x * d_p.x + d_p.y * d_p.y));
+
+Interrupt priority
+
+The robot is set to use wheel encoder, you can disable it in config.h.The mouse is NOT configured!
+System initialised.
+Welcome to HAPR Spring Term Project
+The Priority grouping is: 0
+Coordinate.c:  x: 0.623060      y: 1.545825     t: 21.952406
+Coordinate.c:  x: 0.623060      y: 1.545825     t: 43.904812
+Coordinate.c:  x: 0.623060      y: 1.545825     t: 65.857216
+Coordinate.c:  x: 0.623060      y: 1.545825     t: 87.809624
+Accuracy: +/-10

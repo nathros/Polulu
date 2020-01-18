@@ -1,0 +1,13 @@
+<map id="lcd_printf" name="lcd_printf">
+<area shape="rect" id="node3" href="$lcd_8h.html#a35c08b1fa742e650f4873939707b893b" title="clear LCD screen" alt="" coords="128,5,203,35"/>
+<area shape="rect" id="node5" href="$lcd_8h.html#abca47b53d6a8e31bfa400e0f795d9d5b" title="print a coordinate record on LCD" alt="" coords="251,32,389,61"/>
+<area shape="rect" id="node7" href="$main_8h.html#abe93132cbd3313c720e451bfb0a40482" title="Tasks in bullet point 3." alt="" coords="451,5,552,35"/>
+<area shape="rect" id="node9" href="$coordinate_8h.html#aa45013e6e2bd7e213e997d0bdaa8dad3" title="Update global Coordinate record." alt="" coords="437,59,565,88"/>
+<area shape="rect" id="node11" href="$odometry_8c.html#a05b1452a03ab9bac0c107d34e3c97541" title="submit wheel encoder&#39;s data" alt="" coords="615,32,729,61"/>
+<area shape="rect" id="node17" href="$mouse_8h.html#adeb5e1f377406ceb59106ae6318a728b" title="callback function for mouse movement" alt="" coords="615,85,729,115"/>
+<area shape="rect" id="node13" href="$odometry_8h.html#a1969509b35503f205065612f46c6da7c" title="increase the internal encoder count" alt="" coords="779,32,893,61"/>
+<area shape="rect" id="node15" href="$gpio_8h.html#af8da7f07629d00e7f39d86df2ee1470c" title="Interrupt Service Routine for GPIO ports." alt="" coords="941,32,1077,61"/>
+<area shape="rect" id="node19" href="$mouse_8h.html#a04727e4cf581d3df014c421c584726aa" title="Setup the mouse subsystem." alt="" coords="787,85,885,115"/>
+<area shape="rect" id="node21" href="$main_8h.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="All system Initialisation." alt="" coords="991,85,1028,115"/>
+<area shape="rect" id="node23" href="$main_8c.html#acdef7a1fd863a6d3770c1268cb06add3" title="main" alt="" coords="1125,85,1176,115"/>
+</map>

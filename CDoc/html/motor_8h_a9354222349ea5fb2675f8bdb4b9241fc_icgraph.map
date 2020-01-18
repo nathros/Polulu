@@ -1,0 +1,8 @@
+<map id="motor_read" name="motor_read">
+<area shape="rect" id="node3" href="$advanced__movement_8h.html#a29fde422d15d810849e70bbaf9c785a3" title="Implementing PID function for straight line movement based on wheel encoders." alt="" coords="143,5,260,35"/>
+<area shape="rect" id="node5" href="$odometry_8h.html#a1969509b35503f205065612f46c6da7c" title="increase the internal encoder count" alt="" coords="144,59,259,88"/>
+<area shape="rect" id="node9" href="$wall__follow_8h.html#aff5e3746895be3e5bd9ba27cbfc35208" title="Set the robot to follow a wall." alt="" coords="144,112,259,141"/>
+<area shape="rect" id="node7" href="$gpio_8h.html#af8da7f07629d00e7f39d86df2ee1470c" title="Interrupt Service Routine for GPIO ports." alt="" coords="313,59,449,88"/>
+<area shape="rect" id="node11" href="$main_8h.html#a8a1706f7defba67f2148b57bcc2cbfe9" title="Tasks in bullet point 1 and 2." alt="" coords="309,112,453,141"/>
+<area shape="rect" id="node13" href="$main_8c.html#acdef7a1fd863a6d3770c1268cb06add3" title="main" alt="" coords="501,112,552,141"/>
+</map>

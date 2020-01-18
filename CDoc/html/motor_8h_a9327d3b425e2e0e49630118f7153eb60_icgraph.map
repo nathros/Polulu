@@ -1,0 +1,10 @@
+<map id="motors_move" name="motors_move">
+<area shape="rect" id="node3" href="$advanced__movement_8h.html#a29fde422d15d810849e70bbaf9c785a3" title="Implementing PID function for straight line movement based on wheel encoders." alt="" coords="156,5,273,35"/>
+<area shape="rect" id="node5" href="$advanced__movement_8h.html#acb38670d4902890b481e832b39168537" title="Move the robot for certain distance." alt="" coords="173,59,256,88"/>
+<area shape="rect" id="node11" href="$main_8h.html#a8a1706f7defba67f2148b57bcc2cbfe9" title="Tasks in bullet point 1 and 2." alt="" coords="323,137,467,167"/>
+<area shape="rect" id="node15" href="$wall__follow_8h.html#aff5e3746895be3e5bd9ba27cbfc35208" title="Set the robot to follow a wall." alt="" coords="157,163,272,192"/>
+<area shape="rect" id="node18" href="$line__search_8h.html#ac056001e70d976fec36b68883e4b43c0" title="Line searching algorithm entry point." alt="" coords="157,216,272,245"/>
+<area shape="rect" id="node7" href="$advanced__movement_8h.html#a1f84062caee0d0c04e26c0a5ed5aa6f5" title="move to a location (Non&#45;PID version)" alt="" coords="353,19,436,48"/>
+<area shape="rect" id="node9" href="$advanced__movement_8h.html#a4bbd42daaf19c44d051e1afde0a09576" title="Rotate and move (Non&#45;PID version)" alt="" coords="336,72,453,101"/>
+<area shape="rect" id="node13" href="$main_8c.html#acdef7a1fd863a6d3770c1268cb06add3" title="main" alt="" coords="515,137,565,167"/>
+</map>

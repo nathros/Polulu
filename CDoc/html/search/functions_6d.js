@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['main',['main',['../main_8c.html#acdef7a1fd863a6d3770c1268cb06add3',1,'main():&#160;main.c'],['../main__test__line_8c.html#acdef7a1fd863a6d3770c1268cb06add3',1,'main():&#160;main_test_line.c']]],
+  ['main_5fhold',['main_hold',['../main__test__line_8c.html#ad538d12f94c26b9ea38b8795f16dc704',1,'main_test_line.c']]],
+  ['main_5fline_5ffollow',['main_line_follow',['../main__test__line_8c.html#a30ce18439f068d446207d60ebe7e2351',1,'main_test_line.c']]],
+  ['main_5fline_5fturn',['main_line_turn',['../main__test__line_8c.html#afa979514057cc32640a45d247e19509f',1,'main_test_line.c']]],
+  ['motor_5fangle',['motor_angle',['../motor_8c.html#ae362f00a71b6721017d6582bfaf3cd00',1,'motor_angle():&#160;motor.c'],['../motor_8h.html#ae362f00a71b6721017d6582bfaf3cd00',1,'motor_angle():&#160;motor.c']]],
+  ['motor_5fangle_5frest',['motor_angle_rest',['../motor_8c.html#aab23f4aa532d856b029634ab37ef75d4',1,'motor_angle_rest():&#160;motor.c'],['../motor_8h.html#aab23f4aa532d856b029634ab37ef75d4',1,'motor_angle_rest():&#160;motor.c']]],
+  ['motor_5fangle_5fsync',['motor_angle_sync',['../motor_8c.html#a303ae1ed91de1d0ab5f327017245fb2d',1,'motor_angle_sync(int n):&#160;motor.c'],['../motor_8h.html#a303ae1ed91de1d0ab5f327017245fb2d',1,'motor_angle_sync(int n):&#160;motor.c']]],
+  ['motor_5fbias_5fdisable_5fall',['motor_bias_disable_all',['../motor_8c.html#a0ede85a3a7b94bbd3447ca26f3db2914',1,'motor_bias_disable_all():&#160;motor.c'],['../motor_8h.html#a0ede85a3a7b94bbd3447ca26f3db2914',1,'motor_bias_disable_all():&#160;motor.c']]],
+  ['motor_5fbias_5freset_5fall',['motor_bias_reset_all',['../motor_8c.html#aed2f533b8619c17b7c5db4d5c88a5f8e',1,'motor_bias_reset_all():&#160;motor.c'],['../motor_8h.html#aed2f533b8619c17b7c5db4d5c88a5f8e',1,'motor_bias_reset_all():&#160;motor.c']]],
+  ['motor_5fbias_5fset',['motor_bias_set',['../motor_8c.html#af049d5f9574bd5040df483287304ba05',1,'motor_bias_set(Motor motor, float n):&#160;motor.c'],['../motor_8h.html#af049d5f9574bd5040df483287304ba05',1,'motor_bias_set(Motor motor, float n):&#160;motor.c']]],
+  ['motor_5fread',['motor_read',['../motor_8c.html#a9354222349ea5fb2675f8bdb4b9241fc',1,'motor_read(Motor motor):&#160;motor.c'],['../motor_8h.html#a9354222349ea5fb2675f8bdb4b9241fc',1,'motor_read(Motor motor):&#160;motor.c']]],
+  ['motor_5frot_5fabs',['motor_rot_abs',['../motor_8c.html#af7e3ae583d926f4c1a61df25c550d9a4',1,'motor_rot_abs(short target):&#160;motor.c'],['../motor_8h.html#a918b1783aa08678bc5509fa31b882d35',1,'motor_rot_abs(short angle):&#160;motor.c']]],
+  ['motor_5frot_5frel',['motor_rot_rel',['../motor_8c.html#a165ba685afbdce0d677ac8a7590b6fe8',1,'motor_rot_rel(short angle):&#160;motor.c'],['../motor_8h.html#a165ba685afbdce0d677ac8a7590b6fe8',1,'motor_rot_rel(short angle):&#160;motor.c']]],
+  ['motor_5fset',['motor_set',['../motor_8c.html#ad61876852438f35d82769b704e6e8e37',1,'motor_set(Motor motor, int n):&#160;motor.c'],['../motor_8h.html#ad61876852438f35d82769b704e6e8e37',1,'motor_set(Motor motor, int n):&#160;motor.c']]],
+  ['motors_5fmove',['motors_move',['../motor_8c.html#a9327d3b425e2e0e49630118f7153eb60',1,'motors_move(int n):&#160;motor.c'],['../motor_8h.html#a9327d3b425e2e0e49630118f7153eb60',1,'motors_move(int n):&#160;motor.c']]],
+  ['motors_5fstop',['motors_stop',['../motor_8c.html#a2028f6e7acaeca3139534961fb804889',1,'motors_stop():&#160;motor.c'],['../motor_8h.html#a2028f6e7acaeca3139534961fb804889',1,'motors_stop():&#160;motor.c']]],
+  ['mouse_5fattach',['mouse_attach',['../mouse_8c.html#a55ca2ea0c4710dfaf76108075cf6e60f',1,'mouse_attach():&#160;mouse.c'],['../mouse_8h.html#a55ca2ea0c4710dfaf76108075cf6e60f',1,'mouse_attach():&#160;mouse.c']]],
+  ['mouse_5fcallback',['mouse_callback',['../mouse_8c.html#adeb5e1f377406ceb59106ae6318a728b',1,'mouse_callback(uint8_t button, int8_t l, int8_t t):&#160;mouse.c'],['../mouse_8h.html#adeb5e1f377406ceb59106ae6318a728b',1,'mouse_callback(uint8_t button, int8_t l, int8_t t):&#160;mouse.c']]],
+  ['mouse_5fdetach',['mouse_detach',['../mouse_8c.html#a03fcadd2c9cf3d88d9e4e5fa86ee942b',1,'mouse_detach():&#160;mouse.c'],['../mouse_8h.html#a03fcadd2c9cf3d88d9e4e5fa86ee942b',1,'mouse_detach():&#160;mouse.c']]],
+  ['mouse_5finit',['mouse_init',['../KeyboardHost_8h.html#a4efd4df2d1188cacdb2486982700d45d',1,'KeyboardHost.h']]],
+  ['mouse_5finit_5fnoreturn',['mouse_init_noreturn',['../KeyboardHost_8h.html#a1a2f702468f846df187523162724dcdd',1,'KeyboardHost.h']]],
+  ['mouse_5fpoll',['mouse_poll',['../KeyboardHost_8h.html#a41f3e2ae04a722c021a5258062abc7c1',1,'KeyboardHost.h']]],
+  ['mouse_5fsetup',['mouse_setup',['../mouse_8c.html#a04727e4cf581d3df014c421c584726aa',1,'mouse_setup():&#160;mouse.c'],['../mouse_8h.html#a04727e4cf581d3df014c421c584726aa',1,'mouse_setup():&#160;mouse.c']]],
+  ['mouse_5ftimer_5finit',['mouse_timer_init',['../mouse_8c.html#aecacd3d665ff5b7e6bd85fb3a4a29813',1,'mouse.c']]]
+];

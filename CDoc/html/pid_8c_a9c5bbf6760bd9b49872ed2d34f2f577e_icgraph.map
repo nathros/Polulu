@@ -1,0 +1,10 @@
+<map id="pid_read_sensors" name="pid_read_sensors">
+<area shape="rect" id="node3" href="$pid_8h.html#afbc7688b4a28e4a5259e830912e6f11e" title="Line detection for the PID algorithm." alt="" coords="179,5,288,35"/>
+<area shape="rect" id="node7" href="$pid_8c.html#a386aa594a1cea1cbcf7c183fedfe3d8c" title="pid_over_line" alt="" coords="184,59,283,88"/>
+<area shape="rect" id="node5" href="$line__search_8h.html#ac056001e70d976fec36b68883e4b43c0" title="Line searching algorithm entry point." alt="" coords="337,5,452,35"/>
+<area shape="rect" id="node9" href="$pid_8c.html#ab4675cffb314532dca299ee81e52534b" title="pid_exit_check" alt="" coords="340,59,449,88"/>
+<area shape="rect" id="node11" href="$pid_8c.html#a94f983ce696b4c8e4c69009fca704a23" title="pid_control_loop" alt="" coords="503,59,617,88"/>
+<area shape="rect" id="node13" href="$pid_8h.html#a842cafc45346fa32fb9ea16225ec2533" title="Start Line following." alt="" coords="667,59,731,88"/>
+<area shape="rect" id="node15" href="$main__test__line_8c.html#a30ce18439f068d446207d60ebe7e2351" title="main_line_follow" alt="" coords="780,59,897,88"/>
+<area shape="rect" id="node17" href="$main__test__line_8c.html#acdef7a1fd863a6d3770c1268cb06add3" title="main" alt="" coords="947,59,997,88"/>
+</map>

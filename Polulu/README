@@ -1,0 +1,17 @@
+﻿Welcome, these are Team Rocket's Spring Term Project.
+
+Timer assignment:
+TIMER0: delay.c
+TIMER1: Jamie's code
+TIMER2: mouse.c
+TIMER3: Fufu's odometer
+RIT: main.c - for polling sensors
+
+Variable size reference:
+Size of char: 1 byte, max = 255, min= 0
+Size of short: 2 bytes, max = 32767, min= -32768
+Size of int: 4 bytes, max = 2147483647, min= -2147483648
+Size of long: 4 bytes, max = 2147483647, min= -2147483648
+Size of long long: 8 bytes, max = 9223372036854775807, min= -9223372036854775808
+
+TODO: comment on rit.c and rit.h

@@ -1,0 +1,7 @@
+<map id="pid_motor_set" name="pid_motor_set">
+<area shape="rect" id="node3" href="$debug_8c.html#a5cac9a3a2f2d7c55aa4ede6ba71bf8be" title="printf function for the debugging console" alt="" coords="159,5,236,35"/>
+<area shape="rect" id="node5" href="$motor_8c.html#ad61876852438f35d82769b704e6e8e37" title="Set motor speed." alt="" coords="157,59,237,88"/>
+<area shape="rect" id="node7" href="$motor_8c.html#a6b8738722a7fad99c5e6b9be4e53d1b7" title="Speed limiter." alt="" coords="301,32,408,61"/>
+<area shape="rect" id="node9" href="$motor_8c.html#a0bc2624928b5e9869ce6946fb2042fd8" title="private function: send a command to motor" alt="" coords="285,85,424,115"/>
+<area shape="rect" id="node11" href="$uart_8c.html#abfe57cac5619ef3c3aa92250740e3cc5" title="Blocking send function." alt="" coords="473,85,575,115"/>
+</map>

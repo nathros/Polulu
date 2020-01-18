@@ -1,0 +1,14 @@
+<map id="encoder_submit" name="encoder_submit">
+<area shape="rect" id="node3" href="$coordinate_8c.html#aa45013e6e2bd7e213e997d0bdaa8dad3" title="Update global Coordinate record." alt="" coords="168,165,296,194"/>
+<area shape="rect" id="node9" href="$debug_8c.html#a5cac9a3a2f2d7c55aa4ede6ba71bf8be" title="printf function for the debugging console" alt="" coords="537,113,615,142"/>
+<area shape="rect" id="node11" href="$common_8c.html#a7deca9feda010b78c6221c26d513befa" title="Convert radian to degree." alt="" coords="539,242,613,272"/>
+<area shape="rect" id="node5" href="$advanced__movement_8c.html#a2f92087fcefcdd3603d6ecf3dd24d275" title="update the normalised angle value for the pid angle following" alt="" coords="353,34,479,64"/>
+<area shape="rect" id="node7" href="$debug_8c.html#a6b46cf891e9565fff6ed1d71287253f5" title="print a coordinate record to the console" alt="" coords="345,192,487,221"/>
+<area shape="rect" id="node14" href="$lcd_8c.html#abca47b53d6a8e31bfa400e0f795d9d5b" title="print a coordinate record on LCD" alt="" coords="347,348,485,377"/>
+<area shape="rect" id="node30" href="$motor_8c.html#a303ae1ed91de1d0ab5f327017245fb2d" title="sync the motor.c angle record with coordinate.c" alt="" coords="352,138,480,168"/>
+<area shape="rect" id="node16" href="$lcd_8c.html#a35c08b1fa742e650f4873939707b893b" title="clear LCD screen" alt="" coords="539,296,613,325"/>
+<area shape="rect" id="node22" href="$lcd_8c.html#a5509d50759628ea904b1d2d4e1d1ad6d" title="printf function for the lcd" alt="" coords="664,400,739,429"/>
+<area shape="rect" id="node24" href="$lcd_8c.html#aaa308949820d6fe7a59538d40ca9f8ae" title="move to the next line" alt="" coords="787,348,885,377"/>
+<area shape="rect" id="node18" href="$lcd_8c.html#af1d637a9d4d2941eca8b32c10d14fc83" title="move LCD cursor" alt="" coords="935,348,1004,377"/>
+<area shape="rect" id="node20" href="$uart_8c.html#abfe57cac5619ef3c3aa92250740e3cc5" title="Blocking send function." alt="" coords="1055,374,1156,404"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="main_line_turn" name="main_line_turn">
+<area shape="rect" id="node3" href="$motor_8c.html#ad61876852438f35d82769b704e6e8e37" title="Set motor speed." alt="" coords="320,29,400,58"/>
+<area shape="rect" id="node11" href="$motor_8c.html#a2028f6e7acaeca3139534961fb804889" title="Stop both motors." alt="" coords="169,29,263,58"/>
+<area shape="rect" id="node14" href="$pid_8c.html#aea2dd9eb438368e58c3506d50e7d042d" title="Set and Clear PID Flags used to track the current state of the PID loop." alt="" coords="184,82,248,111"/>
+<area shape="rect" id="node21" href="$pid_8c.html#a922095cf2d2716a8b2b7fa1ec65bb1ac" title="Detecting of LEFT / RIGHT Turn at end of line." alt="" coords="161,135,271,165"/>
+<area shape="rect" id="node23" href="$pid_8c.html#a0b69ba305ab6c3ef2559c22a61d20a2b" title="pid_turn_flg" alt="" coords="172,189,260,218"/>
+<area shape="rect" id="node25" href="$utilities_8c.html#ad6b8d6bd67ae04f4ccacc5224f35dab5" title="Play music on Pololu." alt="" coords="172,242,260,271"/>
+<area shape="rect" id="node5" href="$motor_8c.html#a6b8738722a7fad99c5e6b9be4e53d1b7" title="Speed limiter." alt="" coords="464,29,571,58"/>
+<area shape="rect" id="node7" href="$motor_8c.html#a0bc2624928b5e9869ce6946fb2042fd8" title="private function: send a command to motor" alt="" coords="448,82,587,111"/>
+<area shape="rect" id="node9" href="$uart_8c.html#abfe57cac5619ef3c3aa92250740e3cc5" title="Blocking send function." alt="" coords="636,135,737,165"/>
+<area shape="rect" id="node16" href="$debug_8c.html#a5cac9a3a2f2d7c55aa4ede6ba71bf8be" title="printf function for the debugging console" alt="" coords="321,161,399,190"/>
+<area shape="rect" id="node18" href="$line__follow_8c.html#a1e3479a9a17e44de659d1cc0387c0df5" title="Set the robot to follow a line." alt="" coords="463,135,572,165"/>
+</map>

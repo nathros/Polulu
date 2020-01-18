@@ -1,0 +1,1621 @@
+Target Ang:180    Current Ang:-90
+last_proportional  0
+proportional       -5999
+integral           -5999
+derivative         -5999
+power_difference   -168
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-89
+last_proportional  0
+proportional       -1977
+integral           -1977
+derivative         -1977
+power_difference   -54
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-88
+last_proportional  0
+proportional       -1955
+integral           -1955
+derivative         -1955
+power_difference   -54
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-87
+last_proportional  0
+proportional       -1933
+integral           -1933
+derivative         -1933
+power_difference   -53
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-86
+last_proportional  0
+proportional       -1911
+integral           -1911
+derivative         -1911
+power_difference   -53
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-85
+last_proportional  0
+proportional       -1888
+integral           -1888
+derivative         -1888
+power_difference   -52
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-84
+last_proportional  0
+proportional       -1866
+integral           -1866
+derivative         -1866
+power_difference   -52
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-83
+last_proportional  0
+proportional       -1844
+integral           -1844
+derivative         -1844
+power_difference   -51
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-82
+last_proportional  0
+proportional       -1822
+integral           -1822
+derivative         -1822
+power_difference   -50
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-81
+last_proportional  0
+proportional       -1799
+integral           -1799
+derivative         -1799
+power_difference   -49
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-80
+last_proportional  0
+proportional       -1777
+integral           -1777
+derivative         -1777
+power_difference   -49
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-79
+last_proportional  0
+proportional       -1755
+integral           -1755
+derivative         -1755
+power_difference   -49
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-78
+last_proportional  0
+proportional       -1733
+integral           -1733
+derivative         -1733
+power_difference   -48
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-77
+last_proportional  0
+proportional       -1711
+integral           -1711
+derivative         -1711
+power_difference   -48
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-76
+last_proportional  0
+proportional       -1688
+integral           -1688
+derivative         -1688
+power_difference   -47
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-75
+last_proportional  0
+proportional       -1666
+integral           -1666
+derivative         -1666
+power_difference   -46
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-74
+last_proportional  0
+proportional       -1644
+integral           -1644
+derivative         -1644
+power_difference   -45
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-73
+last_proportional  0
+proportional       -1622
+integral           -1622
+derivative         -1622
+power_difference   -45
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-72
+last_proportional  0
+proportional       -1599
+integral           -1599
+derivative         -1599
+power_difference   -44
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-71
+last_proportional  0
+proportional       -1577
+integral           -1577
+derivative         -1577
+power_difference   -44
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-70
+last_proportional  0
+proportional       -1555
+integral           -1555
+derivative         -1555
+power_difference   -43
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-69
+last_proportional  0
+proportional       -1533
+integral           -1533
+derivative         -1533
+power_difference   -43
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-68
+last_proportional  0
+proportional       -1511
+integral           -1511
+derivative         -1511
+power_difference   -42
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-67
+last_proportional  0
+proportional       -1488
+integral           -1488
+derivative         -1488
+power_difference   -41
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-66
+last_proportional  0
+proportional       -1466
+integral           -1466
+derivative         -1466
+power_difference   -40
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-65
+last_proportional  0
+proportional       -1444
+integral           -1444
+derivative         -1444
+power_difference   -40
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-64
+last_proportional  0
+proportional       -1422
+integral           -1422
+derivative         -1422
+power_difference   -39
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-63
+last_proportional  0
+proportional       -1399
+integral           -1399
+derivative         -1399
+power_difference   -39
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-62
+last_proportional  0
+proportional       -1377
+integral           -1377
+derivative         -1377
+power_difference   -38
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-61
+last_proportional  0
+proportional       -1355
+integral           -1355
+derivative         -1355
+power_difference   -38
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-60
+last_proportional  0
+proportional       -1333
+integral           -1333
+derivative         -1333
+power_difference   -36
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-59
+last_proportional  0
+proportional       -1311
+integral           -1311
+derivative         -1311
+power_difference   -36
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-58
+last_proportional  0
+proportional       -1288
+integral           -1288
+derivative         -1288
+power_difference   -35
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-57
+last_proportional  0
+proportional       -1266
+integral           -1266
+derivative         -1266
+power_difference   -35
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-56
+last_proportional  0
+proportional       -1244
+integral           -1244
+derivative         -1244
+power_difference   -34
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-55
+last_proportional  0
+proportional       -1222
+integral           -1222
+derivative         -1222
+power_difference   -34
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-54
+last_proportional  0
+proportional       -1199
+integral           -1199
+derivative         -1199
+power_difference   -33
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-53
+last_proportional  0
+proportional       -1177
+integral           -1177
+derivative         -1177
+power_difference   -33
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-52
+last_proportional  0
+proportional       -1155
+integral           -1155
+derivative         -1155
+power_difference   -31
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-51
+last_proportional  0
+proportional       -1133
+integral           -1133
+derivative         -1133
+power_difference   -31
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-50
+last_proportional  0
+proportional       -1111
+integral           -1111
+derivative         -1111
+power_difference   -30
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-49
+last_proportional  0
+proportional       -1088
+integral           -1088
+derivative         -1088
+power_difference   -30
+
+Set Motors: L_Motor = 0,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-48
+last_proportional  0
+proportional       -1066
+integral           -1066
+derivative         -1066
+power_difference   -29
+
+Set Motors: L_Motor = 1,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-47
+last_proportional  0
+proportional       -1044
+integral           -1044
+derivative         -1044
+power_difference   -29
+
+Set Motors: L_Motor = 1,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-46
+last_proportional  0
+proportional       -1022
+integral           -1022
+derivative         -1022
+power_difference   -28
+
+Set Motors: L_Motor = 2,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-45
+last_proportional  0
+proportional       -999
+integral           -999
+derivative         -999
+power_difference   -27
+
+Set Motors: L_Motor = 3,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-44
+last_proportional  0
+proportional       -977
+integral           -977
+derivative         -977
+power_difference   -26
+
+Set Motors: L_Motor = 4,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-43
+last_proportional  0
+proportional       -955
+integral           -955
+derivative         -955
+power_difference   -26
+
+Set Motors: L_Motor = 4,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-42
+last_proportional  0
+proportional       -933
+integral           -933
+derivative         -933
+power_difference   -25
+
+Set Motors: L_Motor = 5,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-41
+last_proportional  0
+proportional       -911
+integral           -911
+derivative         -911
+power_difference   -25
+
+Set Motors: L_Motor = 5,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-40
+last_proportional  0
+proportional       -888
+integral           -888
+derivative         -888
+power_difference   -24
+
+Set Motors: L_Motor = 6,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-39
+last_proportional  0
+proportional       -866
+integral           -866
+derivative         -866
+power_difference   -24
+
+Set Motors: L_Motor = 6,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-38
+last_proportional  0
+proportional       -844
+integral           -844
+derivative         -844
+power_difference   -23
+
+Set Motors: L_Motor = 7,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-37
+last_proportional  0
+proportional       -822
+integral           -822
+derivative         -822
+power_difference   -22
+
+Set Motors: L_Motor = 8,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-36
+last_proportional  0
+proportional       -799
+integral           -799
+derivative         -799
+power_difference   -21
+
+Set Motors: L_Motor = 9,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-35
+last_proportional  0
+proportional       -777
+integral           -777
+derivative         -777
+power_difference   -21
+
+Set Motors: L_Motor = 9,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-34
+last_proportional  0
+proportional       -755
+integral           -755
+derivative         -755
+power_difference   -20
+
+Set Motors: L_Motor = 10,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-33
+last_proportional  0
+proportional       -733
+integral           -733
+derivative         -733
+power_difference   -20
+
+Set Motors: L_Motor = 10,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-32
+last_proportional  0
+proportional       -711
+integral           -711
+derivative         -711
+power_difference   -19
+
+Set Motors: L_Motor = 11,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-31
+last_proportional  0
+proportional       -688
+integral           -688
+derivative         -688
+power_difference   -19
+
+Set Motors: L_Motor = 11,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-30
+last_proportional  0
+proportional       -666
+integral           -666
+derivative         -666
+power_difference   -17
+
+Set Motors: L_Motor = 13,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-29
+last_proportional  0
+proportional       -644
+integral           -644
+derivative         -644
+power_difference   -17
+
+Set Motors: L_Motor = 13,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-28
+last_proportional  0
+proportional       -622
+integral           -622
+derivative         -622
+power_difference   -16
+
+Set Motors: L_Motor = 14,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-27
+last_proportional  0
+proportional       -599
+integral           -599
+derivative         -599
+power_difference   -16
+
+Set Motors: L_Motor = 14,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-26
+last_proportional  0
+proportional       -577
+integral           -577
+derivative         -577
+power_difference   -15
+
+Set Motors: L_Motor = 15,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-25
+last_proportional  0
+proportional       -555
+integral           -555
+derivative         -555
+power_difference   -15
+
+Set Motors: L_Motor = 15,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-24
+last_proportional  0
+proportional       -533
+integral           -533
+derivative         -533
+power_difference   -14
+
+Set Motors: L_Motor = 16,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-23
+last_proportional  0
+proportional       -511
+integral           -511
+derivative         -511
+power_difference   -14
+
+Set Motors: L_Motor = 16,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-22
+last_proportional  0
+proportional       -488
+integral           -488
+derivative         -488
+power_difference   -12
+
+Set Motors: L_Motor = 18,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-21
+last_proportional  0
+proportional       -466
+integral           -466
+derivative         -466
+power_difference   -12
+
+Set Motors: L_Motor = 18,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-20
+last_proportional  0
+proportional       -444
+integral           -444
+derivative         -444
+power_difference   -11
+
+Set Motors: L_Motor = 19,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-19
+last_proportional  0
+proportional       -422
+integral           -422
+derivative         -422
+power_difference   -11
+
+Set Motors: L_Motor = 19,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-18
+last_proportional  0
+proportional       -399
+integral           -399
+derivative         -399
+power_difference   -10
+
+Set Motors: L_Motor = 20,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-17
+last_proportional  0
+proportional       -377
+integral           -377
+derivative         -377
+power_difference   -10
+
+Set Motors: L_Motor = 20,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-16
+last_proportional  0
+proportional       -355
+integral           -355
+derivative         -355
+power_difference   -9
+
+Set Motors: L_Motor = 21,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-15
+last_proportional  0
+proportional       -333
+integral           -333
+derivative         -333
+power_difference   -8
+
+Set Motors: L_Motor = 22,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-14
+last_proportional  0
+proportional       -311
+integral           -311
+derivative         -311
+power_difference   -7
+
+Set Motors: L_Motor = 23,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-13
+last_proportional  0
+proportional       -288
+integral           -288
+derivative         -288
+power_difference   -7
+
+Set Motors: L_Motor = 23,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-12
+last_proportional  0
+proportional       -266
+integral           -266
+derivative         -266
+power_difference   -6
+
+Set Motors: L_Motor = 24,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-11
+last_proportional  0
+proportional       -244
+integral           -244
+derivative         -244
+power_difference   -6
+
+Set Motors: L_Motor = 24,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-10
+last_proportional  0
+proportional       -222
+integral           -222
+derivative         -222
+power_difference   -5
+
+Set Motors: L_Motor = 25,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-9
+last_proportional  0
+proportional       -199
+integral           -199
+derivative         -199
+power_difference   -5
+
+Set Motors: L_Motor = 25,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-8
+last_proportional  0
+proportional       -177
+integral           -177
+derivative         -177
+power_difference   -4
+
+Set Motors: L_Motor = 26,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-7
+last_proportional  0
+proportional       -155
+integral           -155
+derivative         -155
+power_difference   -3
+
+Set Motors: L_Motor = 27,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-6
+last_proportional  0
+proportional       -133
+integral           -133
+derivative         -133
+power_difference   -2
+
+Set Motors: L_Motor = 28,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-5
+last_proportional  0
+proportional       -111
+integral           -111
+derivative         -111
+power_difference   -2
+
+Set Motors: L_Motor = 28,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-4
+last_proportional  0
+proportional       -88
+integral           -88
+derivative         -88
+power_difference   -1
+
+Set Motors: L_Motor = 29,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-3
+last_proportional  0
+proportional       -66
+integral           -66
+derivative         -66
+power_difference   -1
+
+Set Motors: L_Motor = 29,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-2
+last_proportional  0
+proportional       -44
+integral           -44
+derivative         -44
+power_difference   0
+
+Set Motors: L_Motor = 30,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:-1
+last_proportional  0
+proportional       -22
+integral           -22
+derivative         -22
+power_difference   0
+
+Set Motors: L_Motor = 30,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:0
+last_proportional  0
+proportional       0
+integral           0
+derivative         0
+power_difference   0
+
+Set Motors: L_Motor = 30,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:1
+last_proportional  0
+proportional       22
+integral           22
+derivative         22
+power_difference   0
+
+Set Motors: L_Motor = 30,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:2
+last_proportional  0
+proportional       44
+integral           44
+derivative         44
+power_difference   0
+
+Set Motors: L_Motor = 30,  R_Motor = 30 
+---------------------------------------------- 
+Target Ang:0    Current Ang:3
+last_proportional  0
+proportional       66
+integral           66
+derivative         66
+power_difference   1
+
+Set Motors: L_Motor = 30,  R_Motor = 29 
+---------------------------------------------- 
+Target Ang:0    Current Ang:4
+last_proportional  0
+proportional       88
+integral           88
+derivative         88
+power_difference   1
+
+Set Motors: L_Motor = 30,  R_Motor = 29 
+---------------------------------------------- 
+Target Ang:0    Current Ang:5
+last_proportional  0
+proportional       111
+integral           111
+derivative         111
+power_difference   2
+
+Set Motors: L_Motor = 30,  R_Motor = 28 
+---------------------------------------------- 
+Target Ang:0    Current Ang:6
+last_proportional  0
+proportional       133
+integral           133
+derivative         133
+power_difference   2
+
+Set Motors: L_Motor = 30,  R_Motor = 28 
+---------------------------------------------- 
+Target Ang:0    Current Ang:7
+last_proportional  0
+proportional       155
+integral           155
+derivative         155
+power_difference   3
+
+Set Motors: L_Motor = 30,  R_Motor = 27 
+---------------------------------------------- 
+Target Ang:0    Current Ang:8
+last_proportional  0
+proportional       177
+integral           177
+derivative         177
+power_difference   4
+
+Set Motors: L_Motor = 30,  R_Motor = 26 
+---------------------------------------------- 
+Target Ang:0    Current Ang:9
+last_proportional  0
+proportional       199
+integral           199
+derivative         199
+power_difference   5
+
+Set Motors: L_Motor = 30,  R_Motor = 25 
+---------------------------------------------- 
+Target Ang:0    Current Ang:10
+last_proportional  0
+proportional       222
+integral           222
+derivative         222
+power_difference   5
+
+Set Motors: L_Motor = 30,  R_Motor = 25 
+---------------------------------------------- 
+Target Ang:0    Current Ang:11
+last_proportional  0
+proportional       244
+integral           244
+derivative         244
+power_difference   6
+
+Set Motors: L_Motor = 30,  R_Motor = 24 
+---------------------------------------------- 
+Target Ang:0    Current Ang:12
+last_proportional  0
+proportional       266
+integral           266
+derivative         266
+power_difference   6
+
+Set Motors: L_Motor = 30,  R_Motor = 24 
+---------------------------------------------- 
+Target Ang:0    Current Ang:13
+last_proportional  0
+proportional       288
+integral           288
+derivative         288
+power_difference   7
+
+Set Motors: L_Motor = 30,  R_Motor = 23 
+---------------------------------------------- 
+Target Ang:0    Current Ang:14
+last_proportional  0
+proportional       311
+integral           311
+derivative         311
+power_difference   7
+
+Set Motors: L_Motor = 30,  R_Motor = 23 
+---------------------------------------------- 
+Target Ang:0    Current Ang:15
+last_proportional  0
+proportional       333
+integral           333
+derivative         333
+power_difference   8
+
+Set Motors: L_Motor = 30,  R_Motor = 22 
+---------------------------------------------- 
+Target Ang:0    Current Ang:16
+last_proportional  0
+proportional       355
+integral           355
+derivative         355
+power_difference   9
+
+Set Motors: L_Motor = 30,  R_Motor = 21 
+---------------------------------------------- 
+Target Ang:0    Current Ang:17
+last_proportional  0
+proportional       377
+integral           377
+derivative         377
+power_difference   10
+
+Set Motors: L_Motor = 30,  R_Motor = 20 
+---------------------------------------------- 
+Target Ang:0    Current Ang:18
+last_proportional  0
+proportional       399
+integral           399
+derivative         399
+power_difference   10
+
+Set Motors: L_Motor = 30,  R_Motor = 20 
+---------------------------------------------- 
+Target Ang:0    Current Ang:19
+last_proportional  0
+proportional       422
+integral           422
+derivative         422
+power_difference   11
+
+Set Motors: L_Motor = 30,  R_Motor = 19 
+---------------------------------------------- 
+Target Ang:0    Current Ang:20
+last_proportional  0
+proportional       444
+integral           444
+derivative         444
+power_difference   11
+
+Set Motors: L_Motor = 30,  R_Motor = 19 
+---------------------------------------------- 
+Target Ang:0    Current Ang:21
+last_proportional  0
+proportional       466
+integral           466
+derivative         466
+power_difference   12
+
+Set Motors: L_Motor = 30,  R_Motor = 18 
+---------------------------------------------- 
+Target Ang:0    Current Ang:22
+last_proportional  0
+proportional       488
+integral           488
+derivative         488
+power_difference   12
+
+Set Motors: L_Motor = 30,  R_Motor = 18 
+---------------------------------------------- 
+Target Ang:0    Current Ang:23
+last_proportional  0
+proportional       511
+integral           511
+derivative         511
+power_difference   14
+
+Set Motors: L_Motor = 30,  R_Motor = 16 
+---------------------------------------------- 
+Target Ang:0    Current Ang:24
+last_proportional  0
+proportional       533
+integral           533
+derivative         533
+power_difference   14
+
+Set Motors: L_Motor = 30,  R_Motor = 16 
+---------------------------------------------- 
+Target Ang:0    Current Ang:25
+last_proportional  0
+proportional       555
+integral           555
+derivative         555
+power_difference   15
+
+Set Motors: L_Motor = 30,  R_Motor = 15 
+---------------------------------------------- 
+Target Ang:0    Current Ang:26
+last_proportional  0
+proportional       577
+integral           577
+derivative         577
+power_difference   15
+
+Set Motors: L_Motor = 30,  R_Motor = 15 
+---------------------------------------------- 
+Target Ang:0    Current Ang:27
+last_proportional  0
+proportional       599
+integral           599
+derivative         599
+power_difference   16
+
+Set Motors: L_Motor = 30,  R_Motor = 14 
+---------------------------------------------- 
+Target Ang:0    Current Ang:28
+last_proportional  0
+proportional       622
+integral           622
+derivative         622
+power_difference   16
+
+Set Motors: L_Motor = 30,  R_Motor = 14 
+---------------------------------------------- 
+Target Ang:0    Current Ang:29
+last_proportional  0
+proportional       644
+integral           644
+derivative         644
+power_difference   17
+
+Set Motors: L_Motor = 30,  R_Motor = 13 
+---------------------------------------------- 
+Target Ang:0    Current Ang:30
+last_proportional  0
+proportional       666
+integral           666
+derivative         666
+power_difference   17
+
+Set Motors: L_Motor = 30,  R_Motor = 13 
+---------------------------------------------- 
+Target Ang:0    Current Ang:31
+last_proportional  0
+proportional       688
+integral           688
+derivative         688
+power_difference   19
+
+Set Motors: L_Motor = 30,  R_Motor = 11 
+---------------------------------------------- 
+Target Ang:0    Current Ang:32
+last_proportional  0
+proportional       711
+integral           711
+derivative         711
+power_difference   19
+
+Set Motors: L_Motor = 30,  R_Motor = 11 
+---------------------------------------------- 
+Target Ang:0    Current Ang:33
+last_proportional  0
+proportional       733
+integral           733
+derivative         733
+power_difference   20
+
+Set Motors: L_Motor = 30,  R_Motor = 10 
+---------------------------------------------- 
+Target Ang:0    Current Ang:34
+last_proportional  0
+proportional       755
+integral           755
+derivative         755
+power_difference   20
+
+Set Motors: L_Motor = 30,  R_Motor = 10 
+---------------------------------------------- 
+Target Ang:0    Current Ang:35
+last_proportional  0
+proportional       777
+integral           777
+derivative         777
+power_difference   21
+
+Set Motors: L_Motor = 30,  R_Motor = 9 
+---------------------------------------------- 
+Target Ang:0    Current Ang:36
+last_proportional  0
+proportional       799
+integral           799
+derivative         799
+power_difference   21
+
+Set Motors: L_Motor = 30,  R_Motor = 9 
+---------------------------------------------- 
+Target Ang:0    Current Ang:37
+last_proportional  0
+proportional       822
+integral           822
+derivative         822
+power_difference   22
+
+Set Motors: L_Motor = 30,  R_Motor = 8 
+---------------------------------------------- 
+Target Ang:0    Current Ang:38
+last_proportional  0
+proportional       844
+integral           844
+derivative         844
+power_difference   23
+
+Set Motors: L_Motor = 30,  R_Motor = 7 
+---------------------------------------------- 
+Target Ang:0    Current Ang:39
+last_proportional  0
+proportional       866
+integral           866
+derivative         866
+power_difference   24
+
+Set Motors: L_Motor = 30,  R_Motor = 6 
+---------------------------------------------- 
+Target Ang:0    Current Ang:40
+last_proportional  0
+proportional       888
+integral           888
+derivative         888
+power_difference   24
+
+Set Motors: L_Motor = 30,  R_Motor = 6 
+---------------------------------------------- 
+Target Ang:0    Current Ang:41
+last_proportional  0
+proportional       911
+integral           911
+derivative         911
+power_difference   25
+
+Set Motors: L_Motor = 30,  R_Motor = 5 
+---------------------------------------------- 
+Target Ang:0    Current Ang:42
+last_proportional  0
+proportional       933
+integral           933
+derivative         933
+power_difference   25
+
+Set Motors: L_Motor = 30,  R_Motor = 5 
+---------------------------------------------- 
+Target Ang:0    Current Ang:43
+last_proportional  0
+proportional       955
+integral           955
+derivative         955
+power_difference   26
+
+Set Motors: L_Motor = 30,  R_Motor = 4 
+---------------------------------------------- 
+Target Ang:0    Current Ang:44
+last_proportional  0
+proportional       977
+integral           977
+derivative         977
+power_difference   26
+
+Set Motors: L_Motor = 30,  R_Motor = 4 
+---------------------------------------------- 
+Target Ang:0    Current Ang:45
+last_proportional  0
+proportional       999
+integral           999
+derivative         999
+power_difference   27
+
+Set Motors: L_Motor = 30,  R_Motor = 3 
+---------------------------------------------- 
+Target Ang:0    Current Ang:46
+last_proportional  0
+proportional       1022
+integral           1022
+derivative         1022
+power_difference   28
+
+Set Motors: L_Motor = 30,  R_Motor = 2 
+---------------------------------------------- 
+Target Ang:0    Current Ang:47
+last_proportional  0
+proportional       1044
+integral           1044
+derivative         1044
+power_difference   29
+
+Set Motors: L_Motor = 30,  R_Motor = 1 
+---------------------------------------------- 
+Target Ang:0    Current Ang:48
+last_proportional  0
+proportional       1066
+integral           1066
+derivative         1066
+power_difference   29
+
+Set Motors: L_Motor = 30,  R_Motor = 1 
+---------------------------------------------- 
+Target Ang:0    Current Ang:49
+last_proportional  0
+proportional       1088
+integral           1088
+derivative         1088
+power_difference   30
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:50
+last_proportional  0
+proportional       1111
+integral           1111
+derivative         1111
+power_difference   30
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:51
+last_proportional  0
+proportional       1133
+integral           1133
+derivative         1133
+power_difference   31
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:52
+last_proportional  0
+proportional       1155
+integral           1155
+derivative         1155
+power_difference   31
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:53
+last_proportional  0
+proportional       1177
+integral           1177
+derivative         1177
+power_difference   33
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:54
+last_proportional  0
+proportional       1199
+integral           1199
+derivative         1199
+power_difference   33
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:55
+last_proportional  0
+proportional       1222
+integral           1222
+derivative         1222
+power_difference   34
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:56
+last_proportional  0
+proportional       1244
+integral           1244
+derivative         1244
+power_difference   34
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:57
+last_proportional  0
+proportional       1266
+integral           1266
+derivative         1266
+power_difference   35
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:58
+last_proportional  0
+proportional       1288
+integral           1288
+derivative         1288
+power_difference   35
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:59
+last_proportional  0
+proportional       1311
+integral           1311
+derivative         1311
+power_difference   36
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:60
+last_proportional  0
+proportional       1333
+integral           1333
+derivative         1333
+power_difference   36
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:61
+last_proportional  0
+proportional       1355
+integral           1355
+derivative         1355
+power_difference   38
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:62
+last_proportional  0
+proportional       1377
+integral           1377
+derivative         1377
+power_difference   38
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:63
+last_proportional  0
+proportional       1399
+integral           1399
+derivative         1399
+power_difference   39
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:64
+last_proportional  0
+proportional       1422
+integral           1422
+derivative         1422
+power_difference   39
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:65
+last_proportional  0
+proportional       1444
+integral           1444
+derivative         1444
+power_difference   40
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:66
+last_proportional  0
+proportional       1466
+integral           1466
+derivative         1466
+power_difference   40
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:67
+last_proportional  0
+proportional       1488
+integral           1488
+derivative         1488
+power_difference   41
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:68
+last_proportional  0
+proportional       1511
+integral           1511
+derivative         1511
+power_difference   42
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:69
+last_proportional  0
+proportional       1533
+integral           1533
+derivative         1533
+power_difference   43
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:70
+last_proportional  0
+proportional       1555
+integral           1555
+derivative         1555
+power_difference   43
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:71
+last_proportional  0
+proportional       1577
+integral           1577
+derivative         1577
+power_difference   44
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:72
+last_proportional  0
+proportional       1599
+integral           1599
+derivative         1599
+power_difference   44
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:73
+last_proportional  0
+proportional       1622
+integral           1622
+derivative         1622
+power_difference   45
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:74
+last_proportional  0
+proportional       1644
+integral           1644
+derivative         1644
+power_difference   45
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:75
+last_proportional  0
+proportional       1666
+integral           1666
+derivative         1666
+power_difference   46
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:76
+last_proportional  0
+proportional       1688
+integral           1688
+derivative         1688
+power_difference   47
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:77
+last_proportional  0
+proportional       1711
+integral           1711
+derivative         1711
+power_difference   48
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:78
+last_proportional  0
+proportional       1733
+integral           1733
+derivative         1733
+power_difference   48
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:79
+last_proportional  0
+proportional       1755
+integral           1755
+derivative         1755
+power_difference   49
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:80
+last_proportional  0
+proportional       1777
+integral           1777
+derivative         1777
+power_difference   49
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:81
+last_proportional  0
+proportional       1799
+integral           1799
+derivative         1799
+power_difference   49
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:82
+last_proportional  0
+proportional       1822
+integral           1822
+derivative         1822
+power_difference   50
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:83
+last_proportional  0
+proportional       1844
+integral           1844
+derivative         1844
+power_difference   51
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:84
+last_proportional  0
+proportional       1866
+integral           1866
+derivative         1866
+power_difference   52
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:85
+last_proportional  0
+proportional       1888
+integral           1888
+derivative         1888
+power_difference   52
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:86
+last_proportional  0
+proportional       1911
+integral           1911
+derivative         1911
+power_difference   53
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:87
+last_proportional  0
+proportional       1933
+integral           1933
+derivative         1933
+power_difference   53
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:88
+last_proportional  0
+proportional       1955
+integral           1955
+derivative         1955
+power_difference   54
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+Target Ang:0    Current Ang:89
+last_proportional  0
+proportional       1977
+integral           1977
+derivative         1977
+power_difference   54
+
+Set Motors: L_Motor = 30,  R_Motor = 0 
+---------------------------------------------- 
+

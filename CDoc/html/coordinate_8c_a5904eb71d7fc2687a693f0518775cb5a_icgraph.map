@@ -1,0 +1,8 @@
+<map id="distance_clear" name="distance_clear">
+<area shape="rect" id="node3" href="$advanced__movement_8h.html#a29fde422d15d810849e70bbaf9c785a3" title="Implementing PID function for straight line movement based on wheel encoders." alt="" coords="172,5,289,35"/>
+<area shape="rect" id="node5" href="$advanced__movement_8h.html#a5a94e3d9dce99e8d81d51515fa9c3ed6" title="Rotate and move (PID version)" alt="" coords="160,59,301,88"/>
+<area shape="rect" id="node9" href="$advanced__movement_8h.html#acb38670d4902890b481e832b39168537" title="Move the robot for certain distance." alt="" coords="189,112,272,141"/>
+<area shape="rect" id="node7" href="$advanced__movement_8h.html#a32ecfecc38758df0d69b18aafa5cc470" title="Implementing function for straight line movement (based on mouse data)" alt="" coords="355,59,461,88"/>
+<area shape="rect" id="node11" href="$advanced__movement_8h.html#a1f84062caee0d0c04e26c0a5ed5aa6f5" title="move to a location (Non&#45;PID version)" alt="" coords="367,112,449,141"/>
+<area shape="rect" id="node13" href="$advanced__movement_8h.html#a4bbd42daaf19c44d051e1afde0a09576" title="Rotate and move (Non&#45;PID version)" alt="" coords="349,165,467,195"/>
+</map>

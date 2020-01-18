@@ -1,0 +1,79 @@
+    //dcImgBuffer->DrawLine(1024, 1024, 1111, 1111);
+    dcImgBuffer->DrawRectangle(-1, -1, 2049, 2049);
+
+    //dc.DrawLine( 300, 100, 400, 300 );
+    //Panel3->Move(CurrentX-8,CurrentY-8);
+    int LeftMotorSpeed;
+    int RightMotorSpeed;
+    int seconds = 0;
+
+
+
+    ifstream myReadFile;
+    myReadFile.open("/home/nathan/screenlog.0");
+    //char* readfromfile;
+    ofstream program3data;
+    program3data.open("/home/nathan/program3data.txt");
+
+    string readfromfile;
+    if (myReadFile.is_open())
+    {
+        while (!myReadFile.eof())
+        {
+            myReadFile >> readfromfile;
+            if (readfromfile[0] == 'M')
+            {
+                myReadFile >> readfromfile;
+                LeftMotorSpeed = atoi(readfromfile.c_str());
+                myReadFile >> readfromfile;
+                RightMotorSpeed = atoi(readfromfile.c_str());
+            }
+            else if (readfromfile[0] == 'I')
+            {
+               /* myReadFile >> readfromfile;
+                int temp;
+                temp = atoi(readfromfile.c_str()) / 5;
+                if ((temp > 16) && (temp < 34))
+                dcImgBuffer->DrawRectangle( CurrentX, CurrentY+temp, 2, 2 );
+
+                myReadFile >> readfromfile;
+                temp = atoi(readfromfile.c_str()) / 5;
+                if (temp > 16)
+                dcImgBuffer->DrawRectangle( CurrentX-temp, CurrentY, 2, 2 ); program3data << readfromfile+"\n";
+
+                myReadFile >> readfromfile;
+                temp = atoi(readfromfile.c_str()) / 5;
+                if (temp > 16)
+                dcImgBuffer->DrawRectangle( CurrentX+temp, CurrentY, 2, 2 );
+
+                myReadFile >> readfromfile;
+                temp = atoi(readfromfile.c_str()) / 5;
+                if (temp > 16 && temp < 34)
+                dcImgBuffer->DrawRectangle( CurrentX, CurrentY-temp, 2, 2 );*/
+                myReadFile >> readfromfile;
+                PlotSensorReading(FRONT,atoi(readfromfile.c_str()));
+
+                myReadFile >> readfromfile;
+                PlotSensorReading(LEFT,atoi(readfromfile.c_str()));
+
+                myReadFile >> readfromfile;
+                PlotSensorReading(RIGHT,atoi(readfromfile.c_str()));
+
+                myReadFile >> readfromfile;
+                PlotSensorReading(BACK,atoi(readfromfile.c_str()));
+                CurrentY+=2;
+            }
+
+
+            //wxString mystring(readfromfile.c_str(), wxConvUTF8);
+            //ListBox1->Append(mystring);
+        }
+    }
+    myReadFile.close();
+    program3data.close();
+
+
+
+    PaintBuffer();
+    Angle+=5;
+    CurrentY=1024; //with old PlotSensorReading

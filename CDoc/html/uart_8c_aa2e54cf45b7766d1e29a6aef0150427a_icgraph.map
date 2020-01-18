@@ -1,0 +1,22 @@
+<map id="uart_recv_blk" name="uart_recv_blk">
+<area shape="rect" id="node3" href="$line__sensors_8h.html#af1810a7bcad8dfe1398db0c51bd48bc0" title="Built&#45;in line sensor auto&#45;calibration." alt="" coords="159,32,281,61"/>
+<area shape="rect" id="node9" href="$line__sensors_8h.html#a4e5eef79bfe3984f3d9c402438109248" title="Calibrate and Read." alt="" coords="155,85,285,115"/>
+<area shape="rect" id="node11" href="$line__sensors_8h.html#a556cc3371b1664e3b97d9cfdba371fdf" title="Reads the calibrated values from line sensors." alt="" coords="183,139,257,168"/>
+<area shape="rect" id="node33" href="$line__sensors_8h.html#a9ad4aa9b2baee5c0e8ef08d4d7f69b19" title="Get current estimated line position." alt="" coords="157,192,283,221"/>
+<area shape="rect" id="node35" href="$line__sensors_8h.html#ab08685d86045235f5c713fc43ab9e931" title="Read the raw values of line sensors into an array." alt="" coords="169,245,271,275"/>
+<area shape="rect" id="node37" href="$utilities_8h.html#a776578575025ca640cd1bb82c77c765f" title="Request battery voltage." alt="" coords="173,299,267,328"/>
+<area shape="rect" id="node39" href="$utilities_8h.html#a36adb364ce649ae5ca8b8937240c6895" title="Request the trimpot value." alt="" coords="173,352,267,381"/>
+<area shape="rect" id="node41" href="$utilities_8h.html#a0b72bce1bac93da3641971795176efea" title="Request the version of the slave code that is running." alt="" coords="176,405,264,435"/>
+<area shape="rect" id="node5" href="$main_8h.html#a0325add2930ae73782ad62ad4d5f5de7" title="Tasks in bullet point 4." alt="" coords="345,5,447,35"/>
+<area shape="rect" id="node7" href="$main__test__line_8c.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="All system Initialisation." alt="" coords="377,59,415,88"/>
+<area shape="rect" id="node13" href="$line__sensors_8h.html#a9e99d49a6f734f4bb34011102d2a30d5" title="Detect the presence of the line." alt="" coords="353,112,439,141"/>
+<area shape="rect" id="node15" href="$pid_8c.html#a9c5bbf6760bd9b49872ed2d34f2f577e" title="pid_read_sensors" alt="" coords="335,165,457,195"/>
+<area shape="rect" id="node17" href="$pid_8h.html#afbc7688b4a28e4a5259e830912e6f11e" title="Line detection for the PID algorithm." alt="" coords="507,139,616,168"/>
+<area shape="rect" id="node21" href="$pid_8c.html#a386aa594a1cea1cbcf7c183fedfe3d8c" title="pid_over_line" alt="" coords="512,192,611,221"/>
+<area shape="rect" id="node19" href="$line__search_8h.html#ac056001e70d976fec36b68883e4b43c0" title="Line searching algorithm entry point." alt="" coords="665,139,780,168"/>
+<area shape="rect" id="node23" href="$pid_8c.html#ab4675cffb314532dca299ee81e52534b" title="pid_exit_check" alt="" coords="668,192,777,221"/>
+<area shape="rect" id="node25" href="$pid_8c.html#a94f983ce696b4c8e4c69009fca704a23" title="pid_control_loop" alt="" coords="831,192,945,221"/>
+<area shape="rect" id="node27" href="$pid_8h.html#a842cafc45346fa32fb9ea16225ec2533" title="Start Line following." alt="" coords="995,192,1059,221"/>
+<area shape="rect" id="node29" href="$main__test__line_8c.html#a30ce18439f068d446207d60ebe7e2351" title="main_line_follow" alt="" coords="1108,192,1225,221"/>
+<area shape="rect" id="node31" href="$main__test__line_8c.html#acdef7a1fd863a6d3770c1268cb06add3" title="main" alt="" coords="1275,192,1325,221"/>
+</map>

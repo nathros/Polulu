@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxFrame" name="PoluluNavFrame">
+		<size>950,640</size>
+		<object class="wxPanel" name="ID_PANEL1" variable="Panel1" member="yes">
+			<pos>128,144</pos>
+			<size>1072,600</size>
+			<object class="wxButton" name="ID_BUTTON1" variable="Button1" member="yes">
+				<label>Read Sensor Data</label>
+				<pos>536,16</pos>
+				<size>120,27</size>
+				<handler function="OnButton1Click" entry="EVT_BUTTON" />
+			</object>
+			<object class="wxPanel" name="ID_PANEL2" variable="MainPanel" member="yes">
+				<pos>16,16</pos>
+				<size>512,512</size>
+				<style>wxSIMPLE_BORDER</style>
+			</object>
+			<object class="wxButton" name="ID_BUTTON2" variable="Button2" member="yes">
+				<label>Plot Data</label>
+				<pos>536,56</pos>
+				<size>120,27</size>
+				<handler function="OnButton2Click" entry="EVT_BUTTON" />
+			</object>
+			<object class="wxPanel" name="ID_PANEL3" variable="Panel2" member="yes">
+				<pos>668,16</pos>
+				<size>264,496</size>
+			</object>
+			<object class="wxButton" name="ID_BUTTON3" variable="Button3" member="yes">
+				<label>PrintAll</label>
+				<pos>536,504</pos>
+				<size>120,27</size>
+				<handler function="OnButton3Click" entry="EVT_BUTTON" />
+			</object>
+			<object class="wxSlider" name="ID_SLIDER1" variable="Slider1" member="yes">
+				<value>-1</value>
+				<min>-1</min>
+				<tickfreq>2</tickfreq>
+				<pos>16,568</pos>
+				<size>504,24</size>
+				<handler function="OnSlider1CmdScrollChanged" entry="EVT_COMMAND_SLIDER_UPDATED" />
+			</object>
+			<object class="wxButton" name="ID_BUTTON4" variable="Button4" member="yes">
+				<label>↑</label>
+				<pos>584,544</pos>
+				<size>27,27</size>
+				<handler function="OnButton4Click" entry="EVT_BUTTON" />
+			</object>
+			<object class="wxButton" name="ID_BUTTON5" variable="Button5" member="yes">
+				<label>→</label>
+				<pos>608,568</pos>
+				<size>27,27</size>
+				<handler function="OnButton5Click" entry="EVT_BUTTON" />
+			</object>
+			<object class="wxButton" name="ID_BUTTON6" variable="Button6" member="yes">
+				<label>↓</label>
+				<pos>584,592</pos>
+				<size>27,27</size>
+				<handler function="OnButton6Click" entry="EVT_BUTTON" />
+			</object>
+			<object class="wxButton" name="ID_BUTTON7" variable="Button7" member="yes">
+				<label>←</label>
+				<pos>560,568</pos>
+				<size>27,27</size>
+				<handler function="OnButton7Click" entry="EVT_BUTTON" />
+			</object>
+			<object class="wxButton" name="ID_BUTTON8" variable="Button8" member="yes">
+				<label>Paint Buffer</label>
+				<pos>536,96</pos>
+				<size>120,27</size>
+				<handler function="OnButton8Click1" entry="EVT_BUTTON" />
+			</object>
+			<object class="wxButton" name="ID_BUTTON9" variable="Button9" member="yes">
+				<label>3D</label>
+				<pos>680,544</pos>
+				<hidden>1</hidden>
+				<handler function="OnButton9Click" entry="EVT_BUTTON" />
+			</object>
+			<object class="wxSpinCtrl" name="ID_SPINCTRL1" variable="SpinCtrl1" member="yes">
+				<value>30</value>
+				<max>300</max>
+				<pos>536,160</pos>
+			</object>
+			<object class="wxSpinCtrl" name="ID_SPINCTRL2" variable="SpinCtrl2" member="yes">
+				<value>250</value>
+				<max>300</max>
+				<pos>536,208</pos>
+			</object>
+			<object class="wxStaticText" name="ID_STATICTEXT1" variable="StaticText1" member="yes">
+				<label>Sensor Min Range</label>
+				<pos>536,144</pos>
+			</object>
+			<object class="wxStaticText" name="ID_STATICTEXT2" variable="StaticText2" member="yes">
+				<label>Sensor Max Range</label>
+				<pos>536,192</pos>
+			</object>
+			<object class="wxStaticText" name="ID_STATICTEXT3" variable="StaticText3" member="yes">
+				<label>Angle:</label>
+				<pos>576,248</pos>
+			</object>
+			<object class="wxStaticText" name="ID_STATICTEXT4" variable="StaticText4" member="yes">
+				<label>Label</label>
+				<pos>624,248</pos>
+			</object>
+			<object class="wxStaticText" name="ID_STATICTEXT5" variable="StaticText5" member="yes">
+				<label>Points to Plot:</label>
+				<pos>536,264</pos>
+			</object>
+			<object class="wxStaticText" name="ID_STATICTEXT6" variable="StaticText6" member="yes">
+				<label>Label</label>
+				<pos>624,264</pos>
+			</object>
+			<object class="wxCheckBox" name="ID_CHECKBOX1" variable="CheckBox1" member="yes">
+				<label>3D</label>
+				<pos>536,392</pos>
+			</object>
+			<object class="wxCheckBox" name="ID_CHECKBOX2" variable="CheckBox2" member="yes">
+				<label>Left Sensor</label>
+				<checked>1</checked>
+				<pos>536,344</pos>
+			</object>
+			<object class="wxCheckBox" name="ID_CHECKBOX3" variable="CheckBox3" member="yes">
+				<label>Front Sensor</label>
+				<checked>1</checked>
+				<pos>536,296</pos>
+			</object>
+			<object class="wxCheckBox" name="ID_CHECKBOX4" variable="CheckBox4" member="yes">
+				<label>Right Sensor</label>
+				<checked>1</checked>
+				<pos>536,368</pos>
+			</object>
+			<object class="wxCheckBox" name="ID_CHECKBOX5" variable="CheckBox5" member="yes">
+				<label>Back Sensor</label>
+				<checked>1</checked>
+				<pos>536,320</pos>
+			</object>
+			<object class="wxSlider" name="ID_SLIDER2" variable="Slider2" member="yes">
+				<max>359</max>
+				<tickfreq>20</tickfreq>
+				<pos>536,416</pos>
+				<size>120,24</size>
+				<handler function="OnSlider2CmdScrollChanged" entry="EVT_COMMAND_SLIDER_UPDATED" />
+			</object>
+			<object class="wxStaticText" name="ID_STATICTEXT7" variable="StaticText7" member="yes">
+				<label>Image Scale</label>
+				<pos>536,456</pos>
+				<size>-1,-1</size>
+			</object>
+			<object class="wxSpinCtrl" name="ID_SPINCTRL3" variable="SpinCtrl3" member="yes">
+				<value>4</value>
+				<min>1</min>
+				<pos>536,472</pos>
+				<handler function="OnSpinCtrl3Change" entry="EVT_SPINCTRL" />
+			</object>
+		</object>
+		<object class="wxTimer" name="ID_TIMER1" variable="Timer1" member="yes">
+			<handler function="OnTimer1Trigger2" entry="EVT_TIMER" />
+		</object>
+	</object>
+</wxsmith>

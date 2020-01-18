@@ -1,0 +1,5 @@
+<map id="lcd.c" name="lcd.c">
+<area shape="rect" id="node9" href="$lcd_8h.html" title="LCD controller header." alt="" coords="272,83,323,112"/>
+<area shape="rect" id="node13" href="$uart_8h.html" title="UART communication handler header." alt="" coords="360,83,413,112"/>
+<area shape="rect" id="node11" href="$coordinate_8h.html" title="Coordinate record module header." alt="" coords="244,160,337,189"/>
+</map>

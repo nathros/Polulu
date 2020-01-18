@@ -1,0 +1,9 @@
+<map id="advanced_movement.h" name="advanced_movement.h">
+<area shape="rect" id="node3" href="$advanced__movement_8c.html" title="Pololu advanced movement module." alt="" coords="5,83,163,112"/>
+<area shape="rect" id="node5" href="$coordinate_8c.html" title="Coordinate record module." alt="" coords="187,83,280,112"/>
+<area shape="rect" id="node7" href="$main_8h.html" title="main.h" alt="" coords="304,83,365,112"/>
+<area shape="rect" id="node11" href="$main__test__line_8c.html" title="main_test_line.c" alt="" coords="389,83,507,112"/>
+<area shape="rect" id="node13" href="$odometry_8c.html" title="Wheel encoder based odometry module (source)" alt="" coords="531,83,616,112"/>
+<area shape="rect" id="node15" href="$pid_8c.html" title="Line following code." alt="" coords="640,83,691,112"/>
+<area shape="rect" id="node9" href="$main_8c.html" title="basic step by step demo code" alt="" coords="304,160,365,189"/>
+</map>

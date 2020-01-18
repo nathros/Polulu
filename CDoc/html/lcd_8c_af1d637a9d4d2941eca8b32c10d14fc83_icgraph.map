@@ -1,0 +1,15 @@
+<map id="lcd_goto" name="lcd_goto">
+<area shape="rect" id="node3" href="$lcd_8h.html#a35c08b1fa742e650f4873939707b893b" title="clear LCD screen" alt="" coords="395,7,469,36"/>
+<area shape="rect" id="node25" href="$lcd_8h.html#aaa308949820d6fe7a59538d40ca9f8ae" title="move to the next line" alt="" coords="125,57,224,87"/>
+<area shape="rect" id="node5" href="$lcd_8h.html#abca47b53d6a8e31bfa400e0f795d9d5b" title="print a coordinate record on LCD" alt="" coords="517,59,656,88"/>
+<area shape="rect" id="node7" href="$coordinate_8h.html#aa45013e6e2bd7e213e997d0bdaa8dad3" title="Update global Coordinate record." alt="" coords="704,32,832,61"/>
+<area shape="rect" id="node23" href="$main_8h.html#abe93132cbd3313c720e451bfb0a40482" title="Tasks in bullet point 3." alt="" coords="717,85,819,115"/>
+<area shape="rect" id="node9" href="$odometry_8c.html#a05b1452a03ab9bac0c107d34e3c97541" title="submit wheel encoder&#39;s data" alt="" coords="881,5,996,35"/>
+<area shape="rect" id="node15" href="$mouse_8h.html#adeb5e1f377406ceb59106ae6318a728b" title="callback function for mouse movement" alt="" coords="881,59,996,88"/>
+<area shape="rect" id="node11" href="$odometry_8h.html#a1969509b35503f205065612f46c6da7c" title="increase the internal encoder count" alt="" coords="1045,5,1160,35"/>
+<area shape="rect" id="node13" href="$gpio_8h.html#af8da7f07629d00e7f39d86df2ee1470c" title="Interrupt Service Routine for GPIO ports." alt="" coords="1208,5,1344,35"/>
+<area shape="rect" id="node17" href="$mouse_8h.html#a04727e4cf581d3df014c421c584726aa" title="Setup the mouse subsystem." alt="" coords="1053,59,1152,88"/>
+<area shape="rect" id="node19" href="$main_8h.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="All system Initialisation." alt="" coords="1257,59,1295,88"/>
+<area shape="rect" id="node21" href="$main_8c.html#acdef7a1fd863a6d3770c1268cb06add3" title="main" alt="" coords="1392,59,1443,88"/>
+<area shape="rect" id="node27" href="$lcd_8h.html#a5509d50759628ea904b1d2d4e1d1ad6d" title="printf function for the lcd" alt="" coords="272,57,347,87"/>
+</map>

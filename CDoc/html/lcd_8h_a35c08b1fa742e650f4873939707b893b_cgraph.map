@@ -1,0 +1,6 @@
+<map id="lcd_clear" name="lcd_clear">
+<area shape="rect" id="node3" href="$lcd_8c.html#af1d637a9d4d2941eca8b32c10d14fc83" title="move LCD cursor" alt="" coords="399,31,468,60"/>
+<area shape="rect" id="node7" href="$lcd_8c.html#a5509d50759628ea904b1d2d4e1d1ad6d" title="printf function for the lcd" alt="" coords="128,31,203,60"/>
+<area shape="rect" id="node5" href="$uart_8c.html#abfe57cac5619ef3c3aa92250740e3cc5" title="Blocking send function." alt="" coords="519,57,620,87"/>
+<area shape="rect" id="node9" href="$lcd_8c.html#aaa308949820d6fe7a59538d40ca9f8ae" title="move to the next line" alt="" coords="251,31,349,60"/>
+</map>

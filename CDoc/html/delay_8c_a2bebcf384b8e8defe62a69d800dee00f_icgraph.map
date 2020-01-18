@@ -1,0 +1,18 @@
+<map id="delay_init" name="delay_init">
+<area shape="rect" id="node3" href="$delay_8h.html#ae3bfb8c0842af8292407895c45f944ff" title="Delay function." alt="" coords="132,160,217,189"/>
+<area shape="rect" id="node5" href="$delay_8h.html#ad318d2c2e59e52195444d85acb91e83d" title="Music delay function." alt="" coords="292,5,385,35"/>
+<area shape="rect" id="node7" href="$line__search_8h.html#ac056001e70d976fec36b68883e4b43c0" title="Line searching algorithm entry point." alt="" coords="657,52,772,81"/>
+<area shape="rect" id="node9" href="$main_8h.html#abe93132cbd3313c720e451bfb0a40482" title="Tasks in bullet point 3." alt="" coords="664,105,765,135"/>
+<area shape="rect" id="node11" href="$main_8h.html#a9cddc44fa9b41000967acb5fc9966a28" title="Go to docking station 1." alt="" coords="652,212,777,241"/>
+<area shape="rect" id="node13" href="$main_8h.html#a11318f9f3060943c2684ffec90ccc568" title="Go to docking station 2." alt="" coords="652,265,777,295"/>
+<area shape="rect" id="node15" href="$motor_8c.html#a606e6907b3fff0731c1127b8b1eff8a2" title="private function: command the motor to rotate" alt="" coords="267,160,411,189"/>
+<area shape="rect" id="node34" href="$wall__follow_8h.html#aff5e3746895be3e5bd9ba27cbfc35208" title="Set the robot to follow a wall." alt="" coords="281,316,396,345"/>
+<area shape="rect" id="node17" href="$motor_8h.html#a165ba685afbdce0d677ac8a7590b6fe8" title="rotate the Pololu bot for arbitary angle" alt="" coords="481,160,580,189"/>
+<area shape="rect" id="node23" href="$motor_8h.html#a918b1783aa08678bc5509fa31b882d35" title="rotate the Pololu bot to an absolute bearing" alt="" coords="663,159,767,188"/>
+<area shape="rect" id="node25" href="$advanced__movement_8h.html#a4bbd42daaf19c44d051e1afde0a09576" title="Rotate and move (Non&#45;PID version)" alt="" coords="839,80,956,109"/>
+<area shape="rect" id="node27" href="$advanced__movement_8h.html#a1f84062caee0d0c04e26c0a5ed5aa6f5" title="move to a location (Non&#45;PID version)" alt="" coords="856,133,939,163"/>
+<area shape="rect" id="node29" href="$advanced__movement_8h.html#a5a94e3d9dce99e8d81d51515fa9c3ed6" title="Rotate and move (PID version)" alt="" coords="827,237,968,267"/>
+<area shape="rect" id="node31" href="$advanced__movement_8h.html#a32ecfecc38758df0d69b18aafa5cc470" title="Implementing function for straight line movement (based on mouse data)" alt="" coords="1016,212,1123,241"/>
+<area shape="rect" id="node36" href="$main_8h.html#a8a1706f7defba67f2148b57bcc2cbfe9" title="Tasks in bullet point 1 and 2." alt="" coords="459,316,603,345"/>
+<area shape="rect" id="node38" href="$main_8c.html#acdef7a1fd863a6d3770c1268cb06add3" title="main" alt="" coords="689,319,740,348"/>
+</map>

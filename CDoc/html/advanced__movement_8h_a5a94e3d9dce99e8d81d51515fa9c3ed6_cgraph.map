@@ -1,0 +1,20 @@
+<map id="adv_move_pid_polar" name="adv_move_pid_polar">
+<area shape="rect" id="node3" href="$coordinate_8c.html#a0eb693d2c1563217c6ffdde7433a5c78" title="set the target angle for the pid line following algorithm" alt="" coords="196,5,340,35"/>
+<area shape="rect" id="node5" href="$coordinate_8c.html#a5904eb71d7fc2687a693f0518775cb5a" title="clear distance record." alt="" coords="215,59,321,88"/>
+<area shape="rect" id="node7" href="$coordinate_8c.html#a006f5a8a7a96dd826d00b123b2e36bc3" title="read total distance travelled" alt="" coords="391,59,492,88"/>
+<area shape="rect" id="node11" href="$motor_8c.html#af7e3ae583d926f4c1a61df25c550d9a4" title="rotate the Pololu bot to an absolute bearing" alt="" coords="216,163,320,192"/>
+<area shape="rect" id="node33" href="$motor_8c.html#a2028f6e7acaeca3139534961fb804889" title="Stop both motors." alt="" coords="739,472,832,501"/>
+<area shape="rect" id="node41" href="$pid_8c.html#ab531cfd7d1c40cfa8e21b93ceb11561b" title="Factored out PID calculation function." alt="" coords="579,213,648,243"/>
+<area shape="rect" id="node44" href="$pid_8c.html#a7e9bbca6d16b9f5ff554e593c3a52f57" title="Set Motors move fwd based on PID result." alt="" coords="733,419,837,448"/>
+<area shape="rect" id="node9" href="$debug_8c.html#a5cac9a3a2f2d7c55aa4ede6ba71bf8be" title="printf function for the debugging console" alt="" coords="887,159,964,188"/>
+<area shape="rect" id="node14" href="$motor_8c.html#a165ba685afbdce0d677ac8a7590b6fe8" title="rotate the Pololu bot for arbitary angle" alt="" coords="392,163,491,192"/>
+<area shape="rect" id="node17" href="$motor_8c.html#a606e6907b3fff0731c1127b8b1eff8a2" title="private function: command the motor to rotate" alt="" coords="541,315,685,344"/>
+<area shape="rect" id="node20" href="$motor_8c.html#a0bc2624928b5e9869ce6946fb2042fd8" title="private function: send a command to motor" alt="" coords="1013,371,1152,400"/>
+<area shape="rect" id="node24" href="$delay_8c.html#ae3bfb8c0842af8292407895c45f944ff" title="Delay function." alt="" coords="743,315,828,344"/>
+<area shape="rect" id="node22" href="$uart_8c.html#abfe57cac5619ef3c3aa92250740e3cc5" title="Blocking send function." alt="" coords="1201,371,1303,400"/>
+<area shape="rect" id="node27" href="$led_8c.html#a6a4bc26a21ab305b8080a6d37726955f" title="Turn on certain LED." alt="" coords="896,212,955,241"/>
+<area shape="rect" id="node29" href="$delay_8c.html#a2bebcf384b8e8defe62a69d800dee00f" title="delay_init" alt="" coords="887,265,964,295"/>
+<area shape="rect" id="node31" href="$led_8c.html#a332be2958bf709819b7853ee7fe9372e" title="Turn off certain LED." alt="" coords="895,319,956,348"/>
+<area shape="rect" id="node35" href="$motor_8c.html#ad61876852438f35d82769b704e6e8e37" title="Set motor speed." alt="" coords="885,424,965,453"/>
+<area shape="rect" id="node37" href="$motor_8c.html#a6b8738722a7fad99c5e6b9be4e53d1b7" title="Speed limiter." alt="" coords="1029,424,1136,453"/>
+</map>

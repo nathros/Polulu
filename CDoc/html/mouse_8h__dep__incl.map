@@ -1,0 +1,16 @@
+<map id="mouse.h" name="mouse.h">
+<area shape="rect" id="node3" href="$debug_8h.html" title="debug framework enhancer header" alt="" coords="617,83,684,112"/>
+<area shape="rect" id="node15" href="$main_8h.html" title="main.h" alt="" coords="5,160,67,189"/>
+<area shape="rect" id="node23" href="$mouse_8c.html" title="mouse module source code" alt="" coords="1163,160,1235,189"/>
+<area shape="rect" id="node5" href="$advanced__movement_8c.html" title="Pololu advanced movement module." alt="" coords="91,160,248,189"/>
+<area shape="rect" id="node7" href="$coordinate_8c.html" title="Coordinate record module." alt="" coords="272,160,365,189"/>
+<area shape="rect" id="node9" href="$debug_8c.html" title="debug framework enhancer" alt="" coords="389,160,456,189"/>
+<area shape="rect" id="node11" href="$delay_8c.html" title="Timer functions for causing delay (source)" alt="" coords="480,160,544,189"/>
+<area shape="rect" id="node13" href="$gpio_8c.html" title="GPIO module." alt="" coords="568,160,624,189"/>
+<area shape="rect" id="node19" href="$main__test__line_8c.html" title="main_test_line.c" alt="" coords="648,160,765,189"/>
+<area shape="rect" id="node21" href="$motor_8c.html" title="Polulu motor controller." alt="" coords="789,160,856,189"/>
+<area shape="rect" id="node25" href="$odometry_8c.html" title="Wheel encoder based odometry module (source)" alt="" coords="880,160,965,189"/>
+<area shape="rect" id="node27" href="$pid_8c.html" title="Line following code." alt="" coords="989,160,1040,189"/>
+<area shape="rect" id="node29" href="$utilities_8c.html" title="Polulu control utilities (source)" alt="" coords="1064,160,1139,189"/>
+<area shape="rect" id="node17" href="$main_8c.html" title="basic step by step demo code" alt="" coords="5,237,67,267"/>
+</map>

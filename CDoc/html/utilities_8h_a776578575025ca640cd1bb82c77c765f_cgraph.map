@@ -1,0 +1,5 @@
+<map id="read_battery" name="read_battery">
+<area shape="rect" id="node3" href="$debug_8c.html#a5cac9a3a2f2d7c55aa4ede6ba71bf8be" title="printf function for the debugging console" alt="" coords="167,5,244,35"/>
+<area shape="rect" id="node5" href="$uart_8c.html#aa2e54cf45b7766d1e29a6aef0150427a" title="Blocking receive function." alt="" coords="156,59,255,88"/>
+<area shape="rect" id="node7" href="$uart_8c.html#a0574ad2d6ebda8dcd83c372baaa6b29e" title="Send a single byte down UART." alt="" coords="151,112,260,141"/>
+</map>

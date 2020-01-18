@@ -1,0 +1,11 @@
+<map id="uart.h" name="uart.h">
+<area shape="rect" id="node3" href="$lcd_8c.html" title="LCD controller." alt="" coords="5,83,56,112"/>
+<area shape="rect" id="node5" href="$line__follow_8c.html" title="Contains line following algorithms." alt="" coords="80,83,173,112"/>
+<area shape="rect" id="node7" href="$line__sensors_8c.html" title="Pololu line sensor module." alt="" coords="197,83,304,112"/>
+<area shape="rect" id="node9" href="$main_8h.html" title="main.h" alt="" coords="328,83,389,112"/>
+<area shape="rect" id="node13" href="$main__test__line_8c.html" title="main_test_line.c" alt="" coords="413,83,531,112"/>
+<area shape="rect" id="node15" href="$motor_8c.html" title="Polulu motor controller." alt="" coords="555,83,621,112"/>
+<area shape="rect" id="node17" href="$uart_8c.html" title="UART communication handler." alt="" coords="645,83,699,112"/>
+<area shape="rect" id="node19" href="$utilities_8c.html" title="Polulu control utilities (source)" alt="" coords="723,83,797,112"/>
+<area shape="rect" id="node11" href="$main_8c.html" title="basic step by step demo code" alt="" coords="328,160,389,189"/>
+</map>

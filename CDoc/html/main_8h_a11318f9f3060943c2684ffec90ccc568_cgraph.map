@@ -1,0 +1,14 @@
+<map id="docking_station_2" name="docking_station_2">
+<area shape="rect" id="node3" href="$delay_8c.html#ae3bfb8c0842af8292407895c45f944ff" title="Delay function." alt="" coords="525,88,611,117"/>
+<area shape="rect" id="node13" href="$motor_8c.html#a165ba685afbdce0d677ac8a7590b6fe8" title="rotate the Pololu bot for arbitary angle" alt="" coords="181,140,280,169"/>
+<area shape="rect" id="node5" href="$debug_8c.html#a5cac9a3a2f2d7c55aa4ede6ba71bf8be" title="printf function for the debugging console" alt="" coords="665,165,743,195"/>
+<area shape="rect" id="node7" href="$delay_8c.html#a2bebcf384b8e8defe62a69d800dee00f" title="delay_init" alt="" coords="665,5,743,35"/>
+<area shape="rect" id="node9" href="$led_8c.html#a332be2958bf709819b7853ee7fe9372e" title="Turn off certain LED." alt="" coords="673,59,735,88"/>
+<area shape="rect" id="node11" href="$led_8c.html#a6a4bc26a21ab305b8080a6d37726955f" title="Turn on certain LED." alt="" coords="675,112,733,141"/>
+<area shape="rect" id="node16" href="$motor_8c.html#a606e6907b3fff0731c1127b8b1eff8a2" title="private function: command the motor to rotate" alt="" coords="328,192,472,221"/>
+<area shape="rect" id="node19" href="$motor_8c.html#a0bc2624928b5e9869ce6946fb2042fd8" title="private function: send a command to motor" alt="" coords="792,241,931,271"/>
+<area shape="rect" id="node24" href="$motor_8c.html#a2028f6e7acaeca3139534961fb804889" title="Stop both motors." alt="" coords="521,293,615,323"/>
+<area shape="rect" id="node21" href="$uart_8c.html#abfe57cac5619ef3c3aa92250740e3cc5" title="Blocking send function." alt="" coords="980,241,1081,271"/>
+<area shape="rect" id="node26" href="$motor_8c.html#ad61876852438f35d82769b704e6e8e37" title="Set motor speed." alt="" coords="664,293,744,323"/>
+<area shape="rect" id="node28" href="$motor_8c.html#a6b8738722a7fad99c5e6b9be4e53d1b7" title="Speed limiter." alt="" coords="808,295,915,324"/>
+</map>

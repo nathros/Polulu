@@ -1,0 +1,21 @@
+<map id="adv_move" name="adv_move">
+<area shape="rect" id="node3" href="$advanced__movement_8c.html#acb38670d4902890b481e832b39168537" title="Move the robot for certain distance." alt="" coords="476,112,559,141"/>
+<area shape="rect" id="node20" href="$debug_8c.html#a5cac9a3a2f2d7c55aa4ede6ba71bf8be" title="printf function for the debugging console" alt="" coords="793,268,871,297"/>
+<area shape="rect" id="node25" href="$coordinate_8c.html#af0c0898bb2b39bd4946e5c9a0911971d" title="read global coordinate record" alt="" coords="136,269,251,299"/>
+<area shape="rect" id="node28" href="$motor_8c.html#af7e3ae583d926f4c1a61df25c550d9a4" title="rotate the Pololu bot to an absolute bearing" alt="" coords="141,323,245,352"/>
+<area shape="rect" id="node48" href="$common_8c.html#a7deca9feda010b78c6221c26d513befa" title="Convert radian to degree." alt="" coords="156,376,231,405"/>
+<area shape="rect" id="node5" href="$coordinate_8c.html#a5904eb71d7fc2687a693f0518775cb5a" title="clear distance record." alt="" coords="637,59,744,88"/>
+<area shape="rect" id="node7" href="$motor_8c.html#a9327d3b425e2e0e49630118f7153eb60" title="Move both motors." alt="" coords="640,5,741,35"/>
+<area shape="rect" id="node18" href="$coordinate_8c.html#a006f5a8a7a96dd826d00b123b2e36bc3" title="read total distance travelled" alt="" coords="640,165,741,195"/>
+<area shape="rect" id="node22" href="$motor_8c.html#a2028f6e7acaeca3139534961fb804889" title="Stop both motors." alt="" coords="644,112,737,141"/>
+<area shape="rect" id="node9" href="$motor_8c.html#a6b8738722a7fad99c5e6b9be4e53d1b7" title="Speed limiter." alt="" coords="936,53,1043,83"/>
+<area shape="rect" id="node11" href="$motor_8c.html#ad61876852438f35d82769b704e6e8e37" title="Set motor speed." alt="" coords="792,85,872,115"/>
+<area shape="rect" id="node14" href="$motor_8c.html#a0bc2624928b5e9869ce6946fb2042fd8" title="private function: send a command to motor" alt="" coords="920,277,1059,307"/>
+<area shape="rect" id="node16" href="$uart_8c.html#abfe57cac5619ef3c3aa92250740e3cc5" title="Blocking send function." alt="" coords="1108,277,1209,307"/>
+<area shape="rect" id="node31" href="$motor_8c.html#a165ba685afbdce0d677ac8a7590b6fe8" title="rotate the Pololu bot for arbitary angle" alt="" coords="299,323,397,352"/>
+<area shape="rect" id="node34" href="$motor_8c.html#a606e6907b3fff0731c1127b8b1eff8a2" title="private function: command the motor to rotate" alt="" coords="445,371,589,400"/>
+<area shape="rect" id="node38" href="$delay_8c.html#ae3bfb8c0842af8292407895c45f944ff" title="Delay function." alt="" coords="648,421,733,451"/>
+<area shape="rect" id="node41" href="$led_8c.html#a6a4bc26a21ab305b8080a6d37726955f" title="Turn on certain LED." alt="" coords="803,428,861,457"/>
+<area shape="rect" id="node43" href="$delay_8c.html#a2bebcf384b8e8defe62a69d800dee00f" title="delay_init" alt="" coords="793,321,871,351"/>
+<area shape="rect" id="node45" href="$led_8c.html#a332be2958bf709819b7853ee7fe9372e" title="Turn off certain LED." alt="" coords="801,375,863,404"/>
+</map>

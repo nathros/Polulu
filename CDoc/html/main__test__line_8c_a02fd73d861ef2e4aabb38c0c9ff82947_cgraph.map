@@ -1,0 +1,37 @@
+<map id="init" name="init">
+<area shape="rect" id="node3" href="$debug_8c.html#a5cac9a3a2f2d7c55aa4ede6ba71bf8be" title="printf function for the debugging console" alt="" coords="804,303,881,333"/>
+<area shape="rect" id="node5" href="$odometry_8c.html#ac7e4e37de6a4f2753989d398e5396d94" title="Initialise the timer for odometer rpm calculation." alt="" coords="95,561,215,590"/>
+<area shape="rect" id="node7" href="$gpio_8c.html#a117267f13b9ac9eb9e4c5b3392bc58c7" title="Wait for GPIO button click." alt="" coords="95,614,215,643"/>
+<area shape="rect" id="node11" href="$led_8c.html#a332be2958bf709819b7853ee7fe9372e" title="Turn off certain LED." alt="" coords="295,667,356,697"/>
+<area shape="rect" id="node15" href="$gpio_8c.html#a84f88a73b7bafb4c856cb7ba9f6fe8b5" title="Initialise collision sensor." alt="" coords="120,718,189,747"/>
+<area shape="rect" id="node17" href="$gpio_8c.html#adc0d8e3facd77316cf46841d6f822fe9" title="Enable GPIO interrupt." alt="" coords="99,771,211,801"/>
+<area shape="rect" id="node19" href="$ir_8c.html#a398213820d1862c262f45bb51a4bb934" title="IR initialisation." alt="" coords="128,825,181,854"/>
+<area shape="rect" id="node22" href="$line__sensors_8c.html#af1810a7bcad8dfe1398db0c51bd48bc0" title="Built&#45;in line sensor auto&#45;calibration." alt="" coords="93,878,216,907"/>
+<area shape="rect" id="node28" href="$motor_8c.html#a2028f6e7acaeca3139534961fb804889" title="Stop both motors." alt="" coords="108,507,201,537"/>
+<area shape="rect" id="node38" href="$mouse_8c.html#a04727e4cf581d3df014c421c584726aa" title="Setup the mouse subsystem." alt="" coords="105,302,204,331"/>
+<area shape="rect" id="node84" href="$uart_8c.html#a01f5996cfbcef121abc486e732b208c7" title="Initialise UART system." alt="" coords="121,931,188,961"/>
+<area shape="rect" id="node9" href="$gpio_8c.html#a670f760170d436bd50843517533cecb2" title="Read button." alt="" coords="265,614,385,643"/>
+<area shape="rect" id="node13" href="$led_8c.html#a6a4bc26a21ab305b8080a6d37726955f" title="Turn on certain LED." alt="" coords="296,561,355,590"/>
+<area shape="rect" id="node24" href="$uart_8c.html#aa2e54cf45b7766d1e29a6aef0150427a" title="Blocking receive function." alt="" coords="276,905,375,934"/>
+<area shape="rect" id="node26" href="$uart_8c.html#a0574ad2d6ebda8dcd83c372baaa6b29e" title="Send a single byte down UART." alt="" coords="271,851,380,881"/>
+<area shape="rect" id="node30" href="$motor_8c.html#ad61876852438f35d82769b704e6e8e37" title="Set motor speed." alt="" coords="285,507,365,537"/>
+<area shape="rect" id="node32" href="$motor_8c.html#a6b8738722a7fad99c5e6b9be4e53d1b7" title="Speed limiter." alt="" coords="445,558,552,587"/>
+<area shape="rect" id="node34" href="$motor_8c.html#a0bc2624928b5e9869ce6946fb2042fd8" title="private function: send a command to motor" alt="" coords="931,379,1069,409"/>
+<area shape="rect" id="node36" href="$uart_8c.html#abfe57cac5619ef3c3aa92250740e3cc5" title="Blocking send function." alt="" coords="1385,199,1487,229"/>
+<area shape="rect" id="node41" href="$KeyboardHost_8h.html#a4efd4df2d1188cacdb2486982700d45d" title="mouse_init" alt="" coords="283,198,368,227"/>
+<area shape="rect" id="node43" href="$mouse_8c.html#adeb5e1f377406ceb59106ae6318a728b" title="callback function for mouse movement" alt="" coords="268,145,383,174"/>
+<area shape="rect" id="node76" href="$mouse_8c.html#a55ca2ea0c4710dfaf76108075cf6e60f" title="callback function for mouse attachment" alt="" coords="447,274,551,303"/>
+<area shape="rect" id="node79" href="$mouse_8c.html#a03fcadd2c9cf3d88d9e4e5fa86ee942b" title="callback function for mouse detachment" alt="" coords="445,353,552,382"/>
+<area shape="rect" id="node82" href="$mouse_8c.html#aecacd3d665ff5b7e6bd85fb3a4a29813" title="Private function: set up the mouse timer." alt="" coords="265,302,385,331"/>
+<area shape="rect" id="node45" href="$common_8c.html#a3bd6d1cc96028528cf3f5fd5ece08cec" title="Convert degree to radian." alt="" coords="461,93,536,122"/>
+<area shape="rect" id="node47" href="$coordinate_8c.html#aa45013e6e2bd7e213e997d0bdaa8dad3" title="Update global Coordinate record." alt="" coords="435,146,563,175"/>
+<area shape="rect" id="node49" href="$advanced__movement_8c.html#a2f92087fcefcdd3603d6ecf3dd24d275" title="update the normalised angle value for the pid angle following" alt="" coords="620,41,745,70"/>
+<area shape="rect" id="node51" href="$debug_8c.html#a6b46cf891e9565fff6ed1d71287253f5" title="print a coordinate record to the console" alt="" coords="612,147,753,177"/>
+<area shape="rect" id="node54" href="$common_8c.html#a7deca9feda010b78c6221c26d513befa" title="Convert radian to degree." alt="" coords="805,95,880,125"/>
+<area shape="rect" id="node57" href="$lcd_8c.html#abca47b53d6a8e31bfa400e0f795d9d5b" title="print a coordinate record on LCD" alt="" coords="613,94,752,123"/>
+<area shape="rect" id="node72" href="$motor_8c.html#a303ae1ed91de1d0ab5f327017245fb2d" title="sync the motor.c angle record with coordinate.c" alt="" coords="619,251,747,281"/>
+<area shape="rect" id="node59" href="$lcd_8c.html#a35c08b1fa742e650f4873939707b893b" title="clear LCD screen" alt="" coords="805,42,880,71"/>
+<area shape="rect" id="node64" href="$lcd_8c.html#a5509d50759628ea904b1d2d4e1d1ad6d" title="printf function for the lcd" alt="" coords="963,199,1037,229"/>
+<area shape="rect" id="node66" href="$lcd_8c.html#aaa308949820d6fe7a59538d40ca9f8ae" title="move to the next line" alt="" coords="1117,147,1216,177"/>
+<area shape="rect" id="node61" href="$lcd_8c.html#af1d637a9d4d2941eca8b32c10d14fc83" title="move LCD cursor" alt="" coords="1265,147,1335,177"/>
+</map>

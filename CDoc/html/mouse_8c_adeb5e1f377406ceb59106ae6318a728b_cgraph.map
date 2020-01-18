@@ -1,0 +1,15 @@
+<map id="mouse_callback" name="mouse_callback">
+<area shape="rect" id="node3" href="$coordinate_8c.html#aa45013e6e2bd7e213e997d0bdaa8dad3" title="Update global Coordinate record." alt="" coords="171,136,299,165"/>
+<area shape="rect" id="node34" href="$common_8c.html#a3bd6d1cc96028528cf3f5fd5ece08cec" title="Convert degree to radian." alt="" coords="197,189,272,219"/>
+<area shape="rect" id="node5" href="$advanced__movement_8c.html#a2f92087fcefcdd3603d6ecf3dd24d275" title="update the normalised angle value for the pid angle following" alt="" coords="356,5,481,35"/>
+<area shape="rect" id="node7" href="$debug_8c.html#a6b46cf891e9565fff6ed1d71287253f5" title="print a coordinate record to the console" alt="" coords="348,163,489,192"/>
+<area shape="rect" id="node9" href="$debug_8c.html#a5cac9a3a2f2d7c55aa4ede6ba71bf8be" title="printf function for the debugging console" alt="" coords="540,109,617,139"/>
+<area shape="rect" id="node11" href="$common_8c.html#a7deca9feda010b78c6221c26d513befa" title="Convert radian to degree." alt="" coords="541,163,616,192"/>
+<area shape="rect" id="node14" href="$lcd_8c.html#abca47b53d6a8e31bfa400e0f795d9d5b" title="print a coordinate record on LCD" alt="" coords="349,267,488,296"/>
+<area shape="rect" id="node30" href="$motor_8c.html#a303ae1ed91de1d0ab5f327017245fb2d" title="sync the motor.c angle record with coordinate.c" alt="" coords="355,109,483,139"/>
+<area shape="rect" id="node16" href="$lcd_8c.html#a35c08b1fa742e650f4873939707b893b" title="clear LCD screen" alt="" coords="541,267,616,296"/>
+<area shape="rect" id="node22" href="$lcd_8c.html#a5509d50759628ea904b1d2d4e1d1ad6d" title="printf function for the lcd" alt="" coords="667,319,741,348"/>
+<area shape="rect" id="node24" href="$lcd_8c.html#aaa308949820d6fe7a59538d40ca9f8ae" title="move to the next line" alt="" coords="789,317,888,347"/>
+<area shape="rect" id="node18" href="$lcd_8c.html#af1d637a9d4d2941eca8b32c10d14fc83" title="move LCD cursor" alt="" coords="937,317,1007,347"/>
+<area shape="rect" id="node20" href="$uart_8c.html#abfe57cac5619ef3c3aa92250740e3cc5" title="Blocking send function." alt="" coords="1057,344,1159,373"/>
+</map>

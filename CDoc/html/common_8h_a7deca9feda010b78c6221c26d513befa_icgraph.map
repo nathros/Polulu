@@ -1,0 +1,13 @@
+<map id="toDegree" name="toDegree">
+<area shape="rect" id="node3" href="$advanced__movement_8h.html#a1f84062caee0d0c04e26c0a5ed5aa6f5" title="move to a location (Non&#45;PID version)" alt="" coords="159,5,241,35"/>
+<area shape="rect" id="node5" href="$advanced__movement_8h.html#a32ecfecc38758df0d69b18aafa5cc470" title="Implementing function for straight line movement (based on mouse data)" alt="" coords="147,59,253,88"/>
+<area shape="rect" id="node7" href="$coordinate_8h.html#aa45013e6e2bd7e213e997d0bdaa8dad3" title="Update global Coordinate record." alt="" coords="320,163,448,192"/>
+<area shape="rect" id="node17" href="$odometry_8c.html#a05b1452a03ab9bac0c107d34e3c97541" title="submit wheel encoder&#39;s data" alt="" coords="497,215,612,244"/>
+<area shape="rect" id="node23" href="$debug_8h.html#a6b46cf891e9565fff6ed1d71287253f5" title="print a coordinate record to the console" alt="" coords="129,163,271,192"/>
+<area shape="rect" id="node9" href="$mouse_8h.html#adeb5e1f377406ceb59106ae6318a728b" title="callback function for mouse movement" alt="" coords="497,161,612,191"/>
+<area shape="rect" id="node11" href="$mouse_8h.html#a04727e4cf581d3df014c421c584726aa" title="Setup the mouse subsystem." alt="" coords="669,161,768,191"/>
+<area shape="rect" id="node13" href="$main_8h.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="All system Initialisation." alt="" coords="873,161,911,191"/>
+<area shape="rect" id="node15" href="$main_8c.html#acdef7a1fd863a6d3770c1268cb06add3" title="main" alt="" coords="1008,161,1059,191"/>
+<area shape="rect" id="node19" href="$odometry_8h.html#a1969509b35503f205065612f46c6da7c" title="increase the internal encoder count" alt="" coords="661,215,776,244"/>
+<area shape="rect" id="node21" href="$gpio_8h.html#af8da7f07629d00e7f39d86df2ee1470c" title="Interrupt Service Routine for GPIO ports." alt="" coords="824,215,960,244"/>
+</map>
